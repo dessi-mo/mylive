@@ -130,9 +130,10 @@
       "key": "*花魁资源",
       "name": "*花魁资源",
       "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php?ac=videolist",
-      "searchable": 0,
-      "quickSearch": 0
+      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "*玖玖资源",
@@ -140,7 +141,8 @@
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
       "searchable": 0,
-      "quickSearch": 0
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "*久草资源",
@@ -148,7 +150,8 @@
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=videolist",
       "searchable": 0,
-      "quickSearch": 0
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "*富二代资源",
@@ -156,7 +159,8 @@
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=videolist",
       "searchable": 0,
-      "quickSearch": 0
+      "quickSearch": 0,
+      "filterable": 0
     },
     {
       "key": "*KK写真资源",
@@ -179,18 +183,16 @@
       "name": "*老鸭资源",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "老鸭2",
       "name": "老鸭2",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
-      "playUrl": "json:https://player.77lehuo.com/aliplayer/?url=",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "quickSearch": 1
     },
     {
       "key": "葡萄",
@@ -198,8 +200,7 @@
       "type": 1,
       "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "quickSearch": 0
     },
     {
       "key": "zmcj88",
@@ -207,16 +208,15 @@
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=videolist",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "quickSearch": 1
     },
     {
       "key": "名优馆",
       "name": "名优馆",
       "type": 0,
       "api": "http://mygzycj.com/sapi.php?ac=videolist",
-      "playUrl": "",
-      "categories": []
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "feifei67.com",
