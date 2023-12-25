@@ -1,9 +1,6 @@
 {
-// 爬虫
   "spider": "https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/cc.jar",
-// 壁纸
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-// 直播
   "lives": [
     {
       "name": "live",
@@ -12,9 +9,15 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
-// 点播
   "sites": [
-{"key":"豆瓣(js)","name":"💥豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
+    {
+      "key": "豆瓣(js)",
+      "name": "💥豆瓣",
+      "type": 3,
+      "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "searchable": 1,
+      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
+    },
     {
       "key": "(18+)环亚资源",
       "name": "(18+不错)环亚资源",
@@ -96,7 +99,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
     {
       "key": "(18+)JAV名优",
       "name": "(18+)JAV名优",
@@ -106,7 +108,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
     {
       "key": "(18+)乐播",
       "name": "(18+)乐播",
@@ -116,7 +117,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
     {
       "key": "(18+)S猫资源",
       "name": "(18+)S猫资源",
@@ -131,73 +131,64 @@
       "name": "*花魁资源",
       "type": 1,
       "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
-      "searchable": 1,
-      "quickSearch": 1
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "*JAV名优馆",
       "name": "*JAV名优馆",
       "type": 0,
       "api": "http://mygzycj.com/api.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "*玖玖资源",
       "name": "*玖玖资源",
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "*久草资源",
       "name": "*久草资源",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "*富二代资源",
       "name": "*富二代资源",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1
+      "searchable": 0,
+      "quickSearch": 0
     },
-
-
-
-
     {
       "key": "*KK写真资源",
       "name": "*KK写真资源",
       "type": 1,
       "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
+      "searchable": 0,
+      "quickSearch": 0
     },
-
-
     {
       "key": "91md",
       "name": "91麻豆",
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "tag": "qb,tj,rm",
-      "searchable": 1,
-      "quickSearch": 1
+      "categories": []
     },
-
-
     {
       "key": "*老鸭资源",
       "name": "*老鸭资源",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch":1
+      "searchable": 0,
+      "quickSearch": 0
     },
     {
       "key": "老鸭2",
@@ -218,7 +209,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
     {
       "key": "zmcj88",
       "name": "字幕网资源",
@@ -228,22 +218,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-
-
-
     {
       "key": "名优馆",
       "name": "名优馆",
       "type": 0,
       "api": "http://mygzycj.com/sapi.php?ac=videolist",
       "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
+      "categories": []
     },
-
-
-
     {
       "key": "feifei67.com",
       "name": "CK资源",
@@ -256,9 +238,7 @@
         "ratio": 1.33
       }
     }
-
   ],
-//解码
   "ijk": [
     {
       "group": "软解码",
@@ -421,35 +401,34 @@
       ]
     }
   ],
-// 解析
   "parses": [
-   {
-      "name": "♻️聚合1",
+    {
+      "name": "♻聚合1",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "♻️嗅探",
+      "name": "♻嗅探",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "♻️虾米",
+      "name": "♻虾米",
       "type": 1,
       "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "♻️yangtu",
+      "name": "♻yangtu",
       "type": 1,
       "url": "https://jx.yangtu.top/?url="
     },
     {
-      "name": "♻️纯净/B站",
+      "name": "♻纯净/B站",
       "type": 1,
       "url": "https://im1907.top/?jx="
     },
     {
-      "name": "♻️OK解析",
+      "name": "♻OK解析",
       "type": 1,
       "url": "https://jiexi.ttbfp1.com/m3u8/?url="
     },
@@ -481,7 +460,6 @@
       }
     }
   ],
-// 广告屏蔽
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
