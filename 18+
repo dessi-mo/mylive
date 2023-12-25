@@ -118,48 +118,48 @@
       "filterable": 0
     },
     {
-      "key": "*花魁资源",
-      "name": "*花魁资源",
-      "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php?ac=list",
+      "key": "花魁资源",
+      "name": "花魁资源",
+      "type": 0,
+      "api": "https://caiji.huakuiapi.com/inc/api.php",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "*玖玖资源",
-      "name": "*玖玖资源",
+      "key": "玖玖资源",
+      "name": "玖玖资源",
       "type": 0,
       "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "*久草资源",
-      "name": "*久草资源",
+      "key": "久草资源",
+      "name": "久草资源",
       "type": 0,
       "api": "http://jcspcj8.com/api?ac=list",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "*富二代资源",
-      "name": "*富二代资源",
+      "key": "富二代资源",
+      "name": "富二代资源",
       "type": 0,
       "api": "http://f2dcj6.com/sapi?ac=list",
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "*KK写真资源",
-      "name": "*KK写真资源",
+      "key": "KK写真资源",
+      "name": "KK写真资源",
       "type": 1,
       "api": "https://kkzy.me/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "91md",
@@ -167,7 +167,8 @@
       "type": 1,
       "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "tag": "qb,tj,rm",
-      "categories": []
+      "searchable": 1,
+      "quickSearch": 1
     },
     {
       "key": "*老鸭资源",
@@ -184,14 +185,6 @@
       "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "葡萄",
-      "name": "葡萄",
-      "type": 0,
-      "api": "https://caiji.putaozyw.net/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 0
     },
     {
       "key": "zmcj88",
