@@ -18,6 +18,25 @@
       "searchable": 1,
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
+
+    {
+      "key": "花魁资源",
+      "name": "花魁资源",
+      "type": 0,
+      "api": "https://caiji.huakuiapi.com/inc/api.php?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },    
+    {
+      "key": "乐播",
+      "name": "乐播",
+      "type": 1,
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "环亚资源",
       "name": "环亚资源",
@@ -85,7 +104,7 @@
       "key": "利来资源",
       "name": "利来资源",
       "type": 0,
-      "api": "http://llzxcj.com/inc/sck.php?ac=list",
+      "api": "http://llzxcj.com/inc/sck.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -99,29 +118,12 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "乐播",
-      "name": "乐播",
-      "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
     {
       "key": "色猫资源",
       "name": "色猫资源",
       "type": 0,
       "api": "https://api.maozyapi.com/inc/api.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "花魁资源",
-      "name": "花魁资源",
-      "type": 0,
-      "api": "https://caiji.huakuiapi.com/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
