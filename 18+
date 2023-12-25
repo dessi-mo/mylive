@@ -85,7 +85,7 @@
       "key": "利来资源",
       "name": "利来资源",
       "type": 0,
-      "api": "http://llzxcj.com/inc/sck.php?ac=videolist",
+      "api": "http://llzxcj.com/inc/sck.php?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -103,7 +103,7 @@
       "key": "乐播",
       "name": "乐播",
       "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -121,7 +121,7 @@
       "key": "*花魁资源",
       "name": "*花魁资源",
       "type": 1,
-      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
+      "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php?ac=list",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -165,7 +165,7 @@
       "key": "91md",
       "name": "91麻豆",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/?ac=list",
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
       "tag": "qb,tj,rm",
       "categories": []
     },
@@ -178,8 +178,8 @@
       "quickSearch": 1
     },
     {
-      "key": "老鸭2",
-      "name": "老鸭2",
+      "key": "乐播",
+      "name": "乐播",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -198,14 +198,6 @@
       "name": "字幕网资源",
       "type": 0,
       "api": "http://zmcj88.com/sapi?ac=list",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "名优馆",
-      "name": "名优馆",
-      "type": 0,
-      "api": "http://mygzycj.com/sapi.php?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
