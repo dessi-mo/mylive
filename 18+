@@ -73,15 +73,6 @@
       "filterable": 1
     },
     {
-      "key": "富二代资源",
-      "name": "富二代资源",
-      "type": 0,
-      "api": "http://f2dcj6.com/sapi/?ac=videolist",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "天堂福利",
       "name": "天堂福利",
       "type": 0,
@@ -148,7 +139,7 @@
       "key": "*久草资源",
       "name": "*久草资源",
       "type": 0,
-      "api": "http://jcspcj8.com/api?ac=videolist",
+      "api": "http://jcspcj8.com/api?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -157,7 +148,7 @@
       "key": "*富二代资源",
       "name": "*富二代资源",
       "type": 0,
-      "api": "http://f2dcj6.com/sapi?ac=videolist",
+      "api": "http://f2dcj6.com/sapi?ac=list",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -174,7 +165,7 @@
       "key": "91md",
       "name": "91麻豆",
       "type": 1,
-      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/?ac=list",
       "tag": "qb,tj,rm",
       "categories": []
     },
@@ -190,7 +181,7 @@
       "key": "老鸭2",
       "name": "老鸭2",
       "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "api": "https://lbapi9.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -198,7 +189,7 @@
       "key": "葡萄",
       "name": "葡萄",
       "type": 1,
-      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php",
+      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php?ac=list",
       "searchable": 1,
       "quickSearch": 0
     },
@@ -206,7 +197,7 @@
       "key": "zmcj88",
       "name": "字幕网资源",
       "type": 0,
-      "api": "http://zmcj88.com/sapi?ac=videolist",
+      "api": "http://zmcj88.com/sapi?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -214,7 +205,7 @@
       "key": "名优馆",
       "name": "名优馆",
       "type": 0,
-      "api": "http://mygzycj.com/sapi.php?ac=videolist",
+      "api": "http://mygzycj.com/sapi.php?ac=list",
       "searchable": 1,
       "quickSearch": 1
     },
