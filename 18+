@@ -20,19 +20,19 @@
     },
 
     {
-      "key": "花魁资源",
-      "name": "花魁资源",
-      "type": 0,
-      "api": "https://caiji.huakuiapi.com/inc/api.php?ac=list",
+      "key": "伊人",
+      "name": "伊人",
+      "type": 1,
+      "api": "https://api.yrzy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },    
     {
-      "key": "乐播",
-      "name": "乐播",
+      "key": "黄瓜",
+      "name": "黄瓜",
       "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/?ac=list",
+      "api": "https://www.avre06.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
