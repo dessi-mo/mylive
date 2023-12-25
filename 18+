@@ -188,8 +188,8 @@
     {
       "key": "葡萄",
       "name": "葡萄",
-      "type": 1,
-      "api": "https://caiji.putaozyw.net/inc/apijson_vod.php?ac=list",
+      "type": 0,
+      "api": "https://caiji.putaozyw.net/inc/api.php",
       "searchable": 1,
       "quickSearch": 0
     },
