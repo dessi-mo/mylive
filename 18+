@@ -19,6 +19,14 @@
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
     {
+      "key": "hsck",
+      "name": "黄色仓库",
+      "type": 1,
+      "api": "http://hsck811.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "花魁",
       "name": "花魁",
       "type": 0,
