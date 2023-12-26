@@ -2,7 +2,7 @@
     //https://github.com/zyk445971319/TVBOXZY/blob/main/JAR/xBPQ%E5%AE%8C%E6%95%B4%E8%AF%B4%E6%98%8E%EF%BC%8C%E5%BE%88%E5%A4%9A%E5%AD%97%E6%AE%B5%E5%8F%AF%E7%9C%81%E7%95%A5%EF%BC%8C%E7%94%9A%E8%87%B3%E7%9C%81%E5%88%B0%E5%8F%AA%E5%89%A9%E5%88%86%E7%B1%BBurl%E5%92%8C%E6%92%AD%E6%94%BE%E6%95%B0%E7%BB%84.json
     "站名":"好色TV",
     "主页url":"https://hsex.icu",
-    "分类url":"https://hsex.icu/{cateId}-{pg}.htm[https://hsex.icu/{cateId}-1.htm]",
+    "分类url":"https://hsex.icu/{cateId}-{pg}.htm[https://hsex.icu/{cateId}-{pg}.htm]",
     "分类":"全部$list#周榜$top7_list#月榜$top_list#5分钟以上$5min_list#10分钟以上$long_list",
         
     "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
