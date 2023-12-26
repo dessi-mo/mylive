@@ -62,6 +62,6 @@
     
 //    "播放链接":"href=\"&&\"",
       
-    "分类url":"https://hsex.icu/{cateId}list-{catePg}.htm;;ak", //https://hsex.icu/list-1.htm
+    "分类url":"https://hsex.icu/{cateId}-1.htm;;ak", //https://hsex.icu/list-1.htm
       
     "分类":"全部$list#周榜$top7_list#月榜$top_list#5分钟以上$5min_list#10分钟以上$10min_list"}
