@@ -17,7 +17,7 @@
     "标题":"title=\"&&\"",
     "副标题":"duration\">&&</var>",
     "图片":"background-image: url('&&')",
-    "链接前缀":"https://hsex.icu",
+    "链接前缀":"https://hsex.icu/",
     "链接":"href=\"&&\"",
       
     "搜索url":"/search-{pg}.htm?search={wd}&sort=new", //https://hsex.icu/search-2.htm?search=黑丝&sort=new
