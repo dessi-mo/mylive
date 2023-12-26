@@ -1,12 +1,12 @@
 {
     "站名":"好色TV",
     "主页url":"https://hsex.icu",
-    "分类url":"https://hsex.icu/{cateId}-1.htm;;0",
+    "分类url":"https://hsex.icu/{cateId}-{pg}.htm[https://hsex.icu/{cateId}-1.htm]",
     "分类":"全部$list#周榜$top7_list#月榜$top_list#5分钟以上$5min_list#10分钟以上$long_list",
         
     "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
     "短视频": "1",
-    "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
+    "嗅探词": ".m3u8",
 //    "简介":"video-info-item video-info-content vod_content\"&&</div>",
 //    "导演":"导演：&&</div>",
 //    "主演":"主演：&&</div>",
