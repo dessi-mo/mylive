@@ -38,30 +38,6 @@
     
     "搜索副标题":"duration\">&&</var>",
     
-//    "搜索后缀":"/video/",
-    
-//    "线路数组":"data-dropdown-value=&&</div>",
-    
-//    "线路标题":"<span>&&</small>[替换:</span><small>>>>祥子影视共]+集",
-    
-//    "播放数组":"<div class=\"sort-item\"&&</div>",
-    
-//    "导演":"导演：&&</div>",
-    
-//    "主演":"主演：&&</div>",
-    
-//    "简介":"<div class=\"video-info-item video-info-content vod_content\">&&</div>",
-    
-//    "影片类型":"icon-cate-ds\"&&立即播放",
-    
-//    "影片状态":"集数：&&</div>",
-    
-//    "播放列表":"<a&&</a>",
-    
-//    "播放标题":"<span>&&</span>",
-    
-//    "播放链接":"href=\"&&\"",
-      
-    "分类url":"https://hsex.icu/{cateId}-1.htm;;ak", //https://hsex.icu/list-1.htm
+    "分类url":"https://hsex.icu/{cateId}-1.htm;;ak",
       
     "分类":"全部$list#周榜$top7_list#月榜$top_list#5分钟以上$5min_list#10分钟以上$10min_list"}
