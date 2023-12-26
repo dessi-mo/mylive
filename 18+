@@ -22,7 +22,15 @@
       "key": "hsck",
       "name": "黄色仓库",
       "type": 1,
-      "api": "http://hsck811.cc/api.php/provide/vod/",
+      "api": "http://hsck812.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "hsck2",
+      "name": "黄色仓库备用",
+      "type": 1,
+      "api": "http://hsck946.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
