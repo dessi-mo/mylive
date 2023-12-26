@@ -23,7 +23,7 @@
       "name": "好色TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/dessi-mo/mylive/main/js/haose.js"
+      "ext": "./js/haose.js"
     },
             {
       "key": "csp_五月",
