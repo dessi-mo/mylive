@@ -5,8 +5,6 @@
     "分类":"全部$list#周榜$top7_list#月榜$top_list#5分钟以上$5min_list#10分钟以上$long_list",
         
     "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
-    "短视频": "1",
-    "嗅探词": ".m3u8",
 //    "简介":"video-info-item video-info-content vod_content\"&&</div>",
 //    "导演":"导演：&&</div>",
 //    "主演":"主演：&&</div>",
@@ -27,8 +25,14 @@
     "搜索标题":"title=\"&&\"",
     "搜索副标题":"duration\">&&</var>",
     "搜索图片":"background-image: url('&&')",
-    "搜索链接":"href=\"&&\""
-
-        
+    "搜索链接":"href=\"&&\"",
+    
+//    "短视频": "1",
+    "免嗅": "0",
+    "嗅探词": ".m3u8",
+    "播放标题": "panel-title\">&&<",
+    "播放链接": "<source src=\"&&\""
+//    "播放链接前缀": "https://hsex.icu",
+    
 //    "播放链接": "<source src=\"&&\""
 }
