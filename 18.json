@@ -1,11 +1,11 @@
 {
-  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/dessi-mo/mylive/main/XBPQ1.jar",
+  "spider": "./XBPQ1.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/lives/live.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xmbjm/vip/main/lives/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
     }
   ],
