@@ -1,5 +1,5 @@
 {
-  "spider": "./XBPQ1.jar",
+  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/dessi-mo/mylive/main/XBPQ1.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -23,7 +23,7 @@
       "name": "好色TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./js/haose.js"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/dessi-mo/mylive/main/js/haose.js"
     },
             {
       "key": "csp_五月",
