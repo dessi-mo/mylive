@@ -27,7 +27,8 @@
     "搜索副标题":"duration\">&&</var>",
     "搜索图片":"background-image: url('&&')",
     "搜索链接":"href=\"&&\"",
-    
+    "搜索链接前缀": "https://hsex.icu/",
+        
 //    "短视频": "1",
 "播放数组": "videos&&col-xs-12 hidden",
 "播放列表": "videos_box&&col-md-3 col-xs-6",
