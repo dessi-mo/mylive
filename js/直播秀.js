@@ -1,7 +1,7 @@
 {
         //{ "address":"jsonweishizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"36","title":"\u536B\u89C6\u76F4\u64AD"},
 "主页url":"http://api.hclyz.com:81/mf/json.txt",
-//"直接播放":"1",
+"直接播放":"1",
 "首页": "http://api.hclyz.com:81/mf/json.txt",
 "分类url":"http://api.hclyz.com:81/mf/{cateId}",
 //"分类":"卫视直播$jsonweishizhibo.txt#龙珠直播$jsonlongzhu.txt#映客直播$jsonyingke.txt#卡哇伊直播$jsonkawayi.txt",
