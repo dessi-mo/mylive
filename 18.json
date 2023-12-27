@@ -18,6 +18,18 @@
       "searchable": 1,
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
+{
+
+      "key": "live直播",
+      "name": "live直播",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./js/直播秀.js"
+    },
     {
       "key": "好色TV",
       "name": "好色TV",
