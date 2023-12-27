@@ -23,7 +23,6 @@
       "key": "live直播",
       "name": "live直播",
       "type": 3,
-      "playerType": 1,
       "api": "csp_XBPQ",
       "searchable": 0,
       "quickSearch": 0,
