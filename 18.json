@@ -24,7 +24,7 @@
       "name": "live直播",
       "type": 3,
       "api": "csp_XBPQ",
-      "playerType": 1,
+      "playerType": 12,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
