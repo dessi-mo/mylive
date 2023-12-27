@@ -1,0 +1,16 @@
+{
+"主页url":"http://api.hclyz.com:81/mf/yuncaidan.txt",
+"直接播放":"1",
+
+"分类url":"http://api.hclyz.com:81/mf/{cateId}",
+"分类数组": "address&&\"}",
+"分类标题": "title\":\"&&\"",
+"分类ID": "address\":\"&&\"",
+        
+"数组":"address&&\"}",
+"标题":"title\":\"&&\"",
+"图片":"xinimg\":\"&&\"",
+"链接":"address\":\"&&\"",
+"嗅探词":"m3u8"
+
+}
