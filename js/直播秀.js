@@ -1,7 +1,7 @@
 {
         //{ "address":"jsonweishizhibo.txt","xinimg":"http://cdn.gcufbd.top/img/weishi.jpg","Number":"36","title":"\u536B\u89C6\u76F4\u64AD"},
 "主页url":"http://api.hclyz.com:81/mf/json.txt",
-"直接播放":"1",
+//"直接播放":"1",
 "首页": "http://api.hclyz.com:81/mf/json.txt",
 "分类url":"http://api.hclyz.com:81/mf/",
 //"分类":"直播秀$jsonweishizhibo.txt",
@@ -12,14 +12,14 @@
 "分类标题": "title\":\"&&\"",
 "分类ID": "address\":\"&&\"",
 
-
+"短视频": "1",
 "数组":"{ \"&&}",
 "标题":"title\":\"&&\"",
 "图片":"img\":\"&&\"",
 "链接前缀":"http://api.hclyz.com:81/mf/",
 "链接":"address\":\"&&\"",
 
-//"免嗅": "1",
+"免嗅": "1",
 "嗅探词":"flv#m3u8"
 
 }
