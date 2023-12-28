@@ -30,12 +30,12 @@
     "搜索链接前缀": "https://hsex.icu/",
         
 //    "短视频": "1",
-//"播放数组": "videos&&col-xs-12 hidden",
-//"播放列表": "videos_box&&col-md-3 col-xs-6",
-//"播放标题": "panel-title\">&&<",
+"播放数组": "videos&&col-xs-12 hidden",
+"播放列表": "videos_box&&col-md-3 col-xs-6",
+"播放标题": "panel-title\">&&<",
     "播放链接": "<source src=\"&&\"",
     "直接播放":"1",
-    "免嗅": "0",
+    "免嗅": "1",
     "嗅探词": ".m3u8"
     
 //    "播放链接": "<source src=\"&&\""
