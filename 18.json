@@ -27,7 +27,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
-	     "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar",
+	"jar":"https://notabug.org/wlcmc1972/test/raw/master/jar/custom_spider.jar",
 	"ext":"https://notabug.org/wlcmc1972/test/raw/master/XYQHiker/臭蛋蛋影视.json"
 },
 	  {"key":"姐姐","name":"姐姐","type":3,"api":"csp_XBPQ","ext":{
@@ -45,7 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar",
+      "jar":"https://notabug.org/wlcmc1972/test/raw/master/jar/custom_spider.jar",
       "ext": "./xyq/haosetv.json"
     },
 	          {
