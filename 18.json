@@ -18,8 +18,18 @@
       "searchable": 1,
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
+{
+	"key": "csp_XYQHiker_臭蛋蛋影视",
+	"name":"臭蛋蛋影视(HM2)",
+	"type":3,
+	"api":"csp_XYQHiker",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+	"ext":"https://notabug.org/wlcmc1972/test/raw/master/XYQHiker/臭蛋蛋影视.json"
+},
     {
-      "key": "xyqh_haose",
+      "key": "csp_XYQHiker_222",
       "name": "XYQ_好色tv",
       "type": 3,
       "api": "csp_XYQHiker",
