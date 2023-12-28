@@ -18,6 +18,16 @@
       "searchable": 1,
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
+	          {
+			  "key": "MTV转点播",
+			  "name":"🆎16万首MV",
+			  "type":3,
+			  "api":"https://notabug.org/wlcmc1972/test/raw/master/jar/live2cms.js",
+			  "searchable":2,
+			  "quickSearch":0,
+			  "filterable":0,
+			  "ext":"https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
+		  },
 {
 
       "key": "live直播",
