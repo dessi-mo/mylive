@@ -44,7 +44,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./xyq/haosetv.json"
+      "ext": "./xyq/haosetv.json"	    
     },
 	          {
 			  "key": "MTV转点播",
@@ -74,7 +74,8 @@
       "name": "好色TV",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "./js/haose.js"
+      "ext": "./js/haose.js",
+	    "jar":"./jar/XBPQ.JAR"
     },
             {
       "key": "csp_五月",
@@ -86,10 +87,10 @@
       "filterable": 1,
       "ext": "http://www.xzweb.top/cs/影视接口/main/alib/五月影视.js"
     },
-{"key":"子子影视","name":"🏠秒播┃影视子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xzweb.top/cs/影视接口/main/lib/zizi.json"},
-{"key":"达达龟","name":"🏠秒播┃影视达龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"http://www.xzweb.top/cs/影视接口/main/alib/达达龟.js"},
-{"key":"csp_Voflix","name":"🏠秒播┃影视Vofl","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xzweb.top/cs/影视接口/main/lib/voflix.json"},
-{"key": "csp_Free","name": "🏠秒播┃影视Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xzweb.top/cs/影视接口/main/lib/freeok.json"},
+{"key":"子子影视","name":"🏠秒播┃影视子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XBPQ.JAR","ext":"http://www.xzweb.top/cs/影视接口/main/lib/zizi.json"},
+{"key":"达达龟","name":"🏠秒播┃影视达龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","jar":"./jar/XBPQ.JAR","ext":"http://www.xzweb.top/cs/影视接口/main/alib/达达龟.js"},
+{"key":"csp_Voflix","name":"🏠秒播┃影视Vofl","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/XBPQ.JAR","ext":"http://www.xzweb.top/cs/影视接口/main/lib/voflix.json"},
+{"key": "csp_Free","name": "🏠秒播┃影视Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XBPQ.JAR","ext":"http://www.xzweb.top/cs/影视接口/main/lib/freeok.json"},
     {
       "key": "宅腐APP",
       "name": "🏠高速┃腐宅百合",
