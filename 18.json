@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/XBPQ.jar",
+  "spider": "https://notabug.org/wlcmc1972/test/raw/master/jar/custom_spider.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -16,6 +16,16 @@
       "type": 3,
       "api": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js",
       "searchable": 1,
+      "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
+    },
+    {
+      "key": "xyqh_haose",
+      "name": "XYQ_好色tv",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
 	          {
