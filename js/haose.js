@@ -30,7 +30,7 @@
     "搜索链接前缀": "https://hsex.icu/",
         
 //    "短视频": "1",
-//"播放数组": "videos&&col-xs-12 hidden",
+"播放数组": "videos&&col-xs-12 hidden",
 "播放列表": "在线播放",
 "播放标题": "panel-title\">&&<",
     "播放链接": "<source src=\"&&\"",
