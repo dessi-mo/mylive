@@ -1,5 +1,5 @@
 {
-  "spider": "https://notabug.org/wlcmc1972/test/raw/master/jar/custom_spider.jar",
+  "spider": "./jar/XBPQ.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -30,7 +30,7 @@
 },
     {
       "key": "csp_XYQHiker_222",
-      "name": "XYQ好色tv",
+      "name": "XYQ_好色tv",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
