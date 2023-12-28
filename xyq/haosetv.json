@@ -55,7 +55,7 @@
     //分类数组截取后
     "cat_arr_suf": "class=\"info\">",
     //分类截取片单图片，截取前缀&&截取后缀
-    "cat_pic": "url(\'&&\')",
+    "cat_pic": "background-image: url('&&')",
     //分类截取片单标题，截取前缀&&截取后缀
     "cat_title": "title=\"&&\"",
     //分类截取片单副标题，截取前缀&&截取后缀
