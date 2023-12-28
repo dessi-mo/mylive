@@ -55,7 +55,7 @@
     //分类数组截取后
     "cat_arr_suf": "class=\"info\">",
     //分类截取片单图片，截取前缀&&截取后缀
-    "cat_pic": "background-image: url('&&')",
+    "cat_pic": "duration\">&&</var>",
     //分类截取片单标题，截取前缀&&截取后缀
     "cat_title": "title=\"&&\"",
     //分类截取片单副标题，截取前缀&&截取后缀
@@ -177,7 +177,7 @@
     //是否开启手动嗅探，只对网页嗅探有效，0否，1是
     "ManualSniffer":"1",
     //手动嗅探视频链接关键字，每个用#隔开
-    "VideoFormat":".mp4#.mp4?#.m3u8#.m3u8?t=#.flv#.flv?",
+    "VideoFormat":".m3u8?t=",
     //手动嗅探视频链接过滤关键词,每个用#隔开
     "VideoFilter":".html#=http"
 }
