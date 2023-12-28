@@ -21,7 +21,163 @@
     //分类链接,{cateId}是分类，{catePg}是页码,第一页没有页码的可以这样写 第二页链接[firstPage=第一页的链接]
     "class_url": "https://hsex.icu/{cateId}-{catePg}.htm[firstPage=https://hsex.icu/{cateId}-1.htm]",
     //分类名，分类1&分类2&分类3
-    "class_name": "全部&周榜&月榜&5分钟+&10分钟+",
+    "class_name": "全部&周榜&月榜&5分钟&10分钟",
     //分类名替换词，替换词1&替换词2&替换词3，替换词包含英文&的用两个中文＆＆代替，示例：＆＆id=0&＆＆id=1
-    "class_value": "list&top7_list&top_list&5min_list&long_list"
+    "class_value": "list&top7_list&top_list&5min_list&long_list",
+    //筛选数据，支持直写，clan本地路径，http云端链接，标准json格式，参考xpath的筛选写法
+    "filterdata":{},
+
+
+    //分类页面截取数据模式，0为json，1为普通网页。
+    "cat_mode": "1",
+
+    //下面5个字段开启json模式才启用
+    //分类json列表数组定位，最多支持3层，能力有限，不是所有页面都能支持
+    "catjsonlist": "data.list",
+    //分类json片单图片
+    "catjsonpic": "roomSrc",
+    //分类json片单标题
+    "catjsonname": "roomName",
+    //分类json片单链接
+    "catjsonid": "rid",
+    //分类json片单副标题
+    "catjsonstitle":"nickname",
+    
+    //分类是否二次截取
+    "cat_YN_twice": "0",
+    //分类二次截取前
+    "cat_twice_pre": "空",
+    //分类二次截取后
+    "cat_twice_suf": "空",
+    
+    //分类数组截取前
+    "cat_arr_pre": "col-xs-6 col-md-3\">",
+    //分类数组截取后
+    "cat_arr_suf": "class=\"info\">",
+    //分类截取片单图片，截取前缀&&截取后缀
+    "cat_pic": "data-original=\"&&\"",
+    //分类截取片单标题，截取前缀&&截取后缀
+    "cat_title": "title=\"&&\"",
+    //分类截取片单副标题，截取前缀&&截取后缀
+    "cat_subtitle": "duration\">&&</var>",
+    //分类截取片单链接，截取前缀&&截取后缀
+    "cat_url": "href=\"&&\"",  
+    //分类片单链接补前缀  
+    "cat_prefix": "https://hsex.icu/",
+    //分类片单链接补后缀
+    "cat_suffix": "",
+    
+    //搜索链接，搜索关键字用{wd}表示，post请求的最后面加;post
+    //POST链接示例 http://www.lezhutv.com/index.php?m=vod-search;post
+    "search_url": "http://www.lezhutv.com/index.php/vod/search/page/1/wd/{wd}.html",
+    //POST搜索body，填写搜索关键字的键值，一般常见的是searchword和wd，不是POST搜索的可留空或删除。
+    "sea_PtBody":"wd={wd}&search=",
+    //搜索模式,0为json搜索，只支持列表在list数组里的，其它为网页截取。
+    "search_mode": "0",
+    
+    //搜索json列表数组定位，不填默认内置list，最多支持3层，能力有限，不是所有页面都能支持。
+    "jsonlist": "list",
+    //搜索json片单图片
+    "jsonpic": "pic",
+    //搜索json片单标题
+    "jsonname": "name",
+    //搜索json片单链接
+    "jsonid": "id",
+    //json片单副标题，这个很少有，预留着
+    "jsonstitle":"",
+    
+    //搜索是否二次截取  
+    "sea_YN_twice": "0",
+    //搜索二次截取前
+    "sea_twice_pre": "空",
+    //搜索二次截取后
+    "sea_twice_suf": "",
+    
+    //搜索数组前缀
+    "sea_arr_pre": "",
+    //搜索数组后缀
+    "sea_arr_suf": "",
+    //搜索片单图片，截取前缀&&截取后缀
+    "sea_pic": "",
+    //搜索片单标题，截取前缀&&截取后缀
+    "sea_title": "",
+    //搜索片单链接，截取前缀&&截取后缀
+    "sea_url": "",
+    //搜索片单链接补前缀
+    "search_prefix": "",
+    //搜索片单链接补后缀，这个一般json搜索的需要
+    "search_suffix": "",
+    //搜索副标题，截取前缀&&截取后缀
+    "sea_subtitle": "",
+    
+    //片单链接是否直接播放，0否，1分类片单链接直接播放，2详情选集链接直接播放。
+    //设置成直接播放后，后面3个参数请注意该留空的请务必留空。
+    "force_play": "1",
+    //直接播放链接补前缀
+    "play_prefix": "",
+    //直接播放链接补后缀，设置为#isVideo=true#可强制识别为视频链接
+    "play_suffix": "",
+    //直接播放链接设置请求头，只对直链视频有效，每一组用#分开
+    "play_header": "",
+    
+    //演员数据，截取前缀&&截取后缀
+    "proj_actor": "",
+    //简介内容，截取前缀&&截取后缀
+    "proj_plot": "",
+    
+    //线路截取区域，如果不需要请把tab_title或tab_arr_pre置空或者全部不要填。
+    //线路是否二次截取
+    "tab_YN_twice": "0",
+    //线路二次截取前
+    "tab_twice_pre": "",
+    //线路二次截取后
+    "tab_twice_suf": "",
+    
+    //线路截取数组前
+    "tab_arr_pre": "空",
+    //线路截取数组后
+    "tab_arr_suf": "空",
+    //线路标题，截取前缀&&截取后缀
+    "tab_title": "空",
+    
+    //列表是否二次截取
+    "list_YN_twice": "0",
+    //列表二次截取前
+    "list_twice_pre": "空",
+    //列表二次截取后
+    "list_twice_suf": "空",
+    //列表数组截取前，必须
+    "list_arr_pre": "",
+    //列表数组截取后，必须
+    "list_arr_suf": "",
+    
+    //集数是否二次截取
+    "epi_YN_twice": "0",
+    //集数二次截取前
+    "epi_twice_pre": "空",
+    //集数二次截取后
+    "epi_twice_suf": "空",
+    //集数数组截取前，必须
+    "epi_arr_pre": "",
+    //集数数组截取后，必须
+    "epi_arr_suf": "",
+    //集数标题，截取前缀&&截取后缀
+    "epi_title": "",
+    //集数链接，截取前缀&&截取后缀
+    "epi_url": "",
+    //集数链接补前缀
+    "epiurl_prefix": "",
+    //集数链接补后缀
+    "epiurl_suffix": "",
+    
+    //下面几个参数请勿乱用。否则可能会有副作用。
+    //分析网页源码中有<script type="text/javascript">var player_aaaa={"flag":"play","encrypt这种源码的链接解析
+    //如果网页源码里没有这种请设置为0
+    "Anal_MacPlayer":"0",
+    //是否开启手动嗅探，只对网页嗅探有效，0否，1是
+    "ManualSniffer":"1",
+    //手动嗅探视频链接关键字，每个用#隔开
+    "VideoFormat":".mp4#.m3u8#.flv",
+    //手动嗅探视频链接过滤关键词,每个用#隔开
+    "VideoFilter":".html#=http"
 }
