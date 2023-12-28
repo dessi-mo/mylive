@@ -36,6 +36,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar",
       "ext": "./xyq/haosetv.json"
     },
 	          {
