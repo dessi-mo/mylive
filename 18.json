@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar",
+  "spider": "./jar/XBPQ.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
@@ -28,7 +28,7 @@
 	"quickSearch":1,
 	"filterable":1,
 	"ext":"https://notabug.org/wlcmc1972/test/raw/master/XYQHiker/臭蛋蛋影视.json"
-},
+}，
 	  {"key":"姐姐","name":"姐姐","type":3,"api":"csp_XBPQ","ext":{
 "图片":"data-src=\"&&\"",
 "直接播放":"1",
@@ -57,6 +57,18 @@
 			  "playerType": 12,
 			  "ext":"https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
 		  },
+	  {
+
+      "key": "黄色仓库",
+      "name": "黄色仓库",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./js/黄色仓库.json"
+    },
 {
 
       "key": "live直播",
