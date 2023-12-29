@@ -18,47 +18,7 @@
       "searchable": 1,
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
-	  {"key":"国产","name":"顶级国产","type":3,"api":"csp_XBPQ","style":{"type":"rect","ratio":1.333},"ext":{"分类url":"https://aoo.qoqoavideo2.sbs/vodtype/{cateId}/page/{catePg}.html","直接播放":"1","分类":"国产$20#日本无码$22#饵食牝$136#欧美$23#欧美精品$104#三级$25#韩片$129#韩国唯美三级$132#韩国明星学生$130#韩国主播$131#AI换脸$41#国产精品$26#SWAG$135#偷拍自拍$29#精彩时刻$33#91大神$137#国产主播$35#3P群交$127#麻豆传媒$134#国产调教$81#美熟少妇$125#网红模特$86#女神学生$124#野合车震$90"}},
-{
-	"key": "csp_XYQHiker_臭蛋蛋影视",
-	"name":"臭蛋蛋影视(HM2)",
-	"type":3,
-	"api":"csp_XYQHiker",
-	"searchable":1,
-	"quickSearch":1,
-	"filterable":1,
-	"ext":"https://notabug.org/wlcmc1972/test/raw/master/XYQHiker/臭蛋蛋影视.json"
-}，
-	  {"key":"姐姐","name":"姐姐","type":3,"api":"csp_XBPQ","ext":{
-"图片":"data-src=\"&&\"",
-"直接播放":"1",
-"分类url":"https://hongkongdollvideo.com/{cateId}/{catePg}.html",
-"分类":"麻豆$麻豆传媒#天美$天美传媒#91$91制片厂#蜜桃$蜜桃传媒#香港$HongkongDoll#皇家$皇家华人#精东$精东影业#乐播$乐播传媒#成人$成人头条#乌鸦$乌鸦传媒#兔子$兔子先生#杏吧$杏吧原创#mini$mini传媒#大象$大象传媒#开心鬼$开心鬼传媒#pass$PsychoPorn#糖心$糖心Vlog"
-},"style":{"type":"rect","ratio":1.33}},
-	  
     {
-      "key": "csp_XYQHiker_222",
-      "name": "XYQ_好色tv",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./xyq/haosetv.json"	    
-    },
-	          {
-			  "key": "MTV转点播",
-			  "name":"🆎16万首MV",
-			  "type":3,
-			  "api":"https://notabug.org/wlcmc1972/test/raw/master/jar/live2cms.js",
-			  "searchable":2,
-			  "quickSearch":0,
-			  "filterable":0,
-			  "playerType": 12,
-			  "ext":"https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
-		  },
-	  {
-
       "key": "黄色仓库",
       "name": "黄色仓库",
       "type": 3,
@@ -69,8 +29,7 @@
       "filterable": 0,
       "ext": "./js/黄色仓库.json"
     },
-{
-
+    {
       "key": "live直播",
       "name": "live直播",
       "type": 3,
@@ -87,9 +46,71 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "./js/haose.js",
-	    "jar":"./jar/XBPQ.JAR"
+      "jar": "./jar/XBPQ.JAR"
     },
-            {
+    {
+      "key": "csp_臭蛋蛋影视",
+      "name": "臭蛋蛋影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/wlcmc1972/test/raw/master/XYQHiker/臭蛋蛋影视.json"
+    },
+    {
+      "key": "csp_XYQHiker_222",
+      "name": "XYQ_好色tv",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./xyq/haosetv.json"
+    },
+    {
+      "key": "MTV转点播",
+      "name": "🆎16万首MV",
+      "type": 3,
+      "api": "https://notabug.org/wlcmc1972/test/raw/master/jar/live2cms.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "playerType": 12,
+      "ext": "https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
+    },
+    {
+      "key": "csp_222",
+      "name": "姐姐",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "图片": "data-src=\"&&\"",
+        "直接播放": "1",
+        "分类url": "https://hongkongdollvideo.com/{cateId}/{catePg}.html",
+        "分类": "麻豆$麻豆传媒#天美$天美传媒#91$91制片厂#蜜桃$蜜桃传媒#香港$HongkongDoll#皇家$皇家华人#精东$精东影业#乐播$乐播传媒#成人$成人头条#乌鸦$乌鸦传媒#兔子$兔子先生#杏吧$杏吧原创#mini$mini传媒#大象$大象传媒#开心鬼$开心鬼传媒#pass$PsychoPorn#糖心$糖心Vlog"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
+    {
+      "key": "国产",
+      "name": "顶级国产",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      },
+      "ext": {
+        "分类url": "https://aoo.qoqoavideo2.sbs/vodtype/{cateId}/page/{catePg}.html",
+        "直接播放": "1",
+        "分类": "国产$20#日本无码$22#饵食牝$136#欧美$23#欧美精品$104#三级$25#韩片$129#韩国唯美三级$132#韩国明星学生$130#韩国主播$131#AI换脸$41#国产精品$26#SWAG$135#偷拍自拍$29#精彩时刻$33#91大神$137#国产主播$35#3P群交$127#麻豆传媒$134#国产调教$81#美熟少妇$125#网红模特$86#女神学生$124#野合车震$90"
+      }
+    },
+    {
       "key": "csp_五月",
       "name": "💋蓝光┃五月",
       "type": 3,
@@ -99,10 +120,51 @@
       "filterable": 1,
       "ext": "http://www.xzweb.top/cs/影视接口/main/alib/五月影视.js"
     },
-{"key":"子子影视","name":"🏠秒播┃影视子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XBPQ.JAR","ext":"http://www.xzweb.top/cs/影视接口/main/lib/zizi.json"},
-{"key":"达达龟","name":"🏠秒播┃影视达龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","jar":"./jar/XBPQ.JAR","ext":"http://www.xzweb.top/cs/影视接口/main/alib/达达龟.js"},
-{"key":"csp_Voflix","name":"🏠秒播┃影视Vofl","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/XBPQ.JAR","ext":"http://www.xzweb.top/cs/影视接口/main/lib/voflix.json"},
-{"key": "csp_Free","name": "🏠秒播┃影视Free","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XBPQ.JAR","ext":"http://www.xzweb.top/cs/影视接口/main/lib/freeok.json"},
+    {
+      "key": "子子影视",
+      "name": "🏠秒播┃影视子子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.JAR",
+      "ext": "http://www.xzweb.top/cs/影视接口/main/lib/zizi.json"
+    },
+    {
+      "key": "达达龟",
+      "name": "🏠秒播┃影视达龟",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "playerType": "1",
+      "jar": "./jar/XBPQ.JAR",
+      "ext": "http://www.xzweb.top/cs/影视接口/main/alib/达达龟.js"
+    },
+    {
+      "key": "csp_Voflix",
+      "name": "🏠秒播┃影视Vofl",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.JAR",
+      "ext": "http://www.xzweb.top/cs/影视接口/main/lib/voflix.json"
+    },
+    {
+      "key": "csp_Free",
+      "name": "🏠秒播┃影视Free",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/XBPQ.JAR",
+      "ext": "http://www.xzweb.top/cs/影视接口/main/lib/freeok.json"
+    },
     {
       "key": "宅腐APP",
       "name": "🏠高速┃腐宅百合",
@@ -113,26 +175,26 @@
       "filterable": 1,
       "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
     },
-		{
-			"key": "龟龟",
-			"name": "🐢龟龟┃BPQ",
-			"type": 3,
-			"changeable": 1,
-			"api": "csp_XBPQ",
-			"ext": {
-				"主页url": "https://www.jugege.cc/",
-				"副标题": "pic-text text-right\">&&</b>",
-				"搜索模式": "1",
-				"搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html",
-				"图片": "data-original=\"&&\"",
-				"嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
-				"影片类型": "<div class=\"module-info-tag\">&&立即播放",
-				"导演": "导演：&&</div>",
-				"主演": "主演：&&</div>",
-				"分类": "电影$1#连续剧$2#综艺$3#动漫$4",
-				"分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
-			}
-		},
+    {
+      "key": "龟龟",
+      "name": "🐢龟龟┃BPQ",
+      "type": 3,
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "https://www.jugege.cc/",
+        "副标题": "pic-text text-right\">&&</b>",
+        "搜索模式": "1",
+        "搜索url": "https://www.jugege.cc/vodsearch/{wd}-------------.html",
+        "图片": "data-original=\"&&\"",
+        "嗅探词": "huoshanvod.com#.mp4#m3u8#.m3u8#/tos/",
+        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+        "分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
+      }
+    },
     {
       "key": "hsck",
       "name": "黄色仓库",
@@ -157,7 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }, 
+    },
     {
       "key": "伊人",
       "name": "伊人",
@@ -166,7 +228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },    
+    },
     {
       "key": "黄瓜",
       "name": "黄瓜",
@@ -257,7 +319,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-
     {
       "key": "色猫资源",
       "name": "色猫资源",
