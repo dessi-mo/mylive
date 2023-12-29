@@ -44,9 +44,10 @@
       "key": "好色TV",
       "name": "好色TV",
       "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
       "api": "csp_XBPQ",
-      "ext": "./js/haose.js",
-      "jar": "./jar/XBPQ.JAR"
+      "ext": "./js/haose.js"
     },
     {
       "key": "csp_臭蛋蛋影视",
