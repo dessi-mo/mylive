@@ -17,8 +17,8 @@
 "链接后缀":".html",
 
 "播放数组": "body&&/body",
-"播放标题": "class=\"\">&&<"，
-"播放链接": "https://ppyy01.vip/zb/wap.php?url=&&\">"，
+"播放标题": "class=\"\">&&<",
+"播放链接": "https://ppyy01.vip/zb/wap.php?url=&&\">",
   
 "免嗅":"1",
 "筛选":{
