@@ -19,9 +19,11 @@
 
   
 "播放数组": "body&&/body",
-"播放列表": "<iframe&&/iframe",
-"播放标题": "width=&&height",
-"播放链接": "wap.php?url=&&\"",
+"播放列表": "<iframe&&</iframe",
+"播放标题": "直播",
+"播放链接": "php?url=&&\">",
+//"播放链接": "php?url=&&\">",
+//  默认--a&&b||l连续剧--c&&d
   
 "嗅探词": "http#flv#m3u8",
 "过滤词":"jpg#png#rtmp",
