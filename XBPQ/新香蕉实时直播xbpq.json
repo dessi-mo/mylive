@@ -1,7 +1,7 @@
 {
 "站名":"实时直播",
 "主页url":"https://bbqq15.vip/zb/",
-"请求头": "MOBILE",
+"请求头": "手机",
 "调试":"1",
 "直接播放":"1",
 "分类url":"https://bbqq15.vip/zb/?ju={cateId}/{class}.html",
