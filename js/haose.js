@@ -4,15 +4,15 @@
     "主页url":"https://hsex.icu",
     "分类url":"https://hsex.icu/{cateId}-{catePg}.htm[https://hsex.icu/{cateId}-1.htm]",
     "分类":"全部$list#周榜$top7_list#月榜$top_list#5分钟以上$5min_list#10分钟以上$long_list",
-        
-    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+    
+//    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
 //    "简介":"video-info-item video-info-content vod_content\"&&</div>",
 //    "导演":"导演：&&</div>",
 //    "主演":"主演：&&</div>",
 //    "影片类型":"video-info-aux scroll-content\">&&立即播放",
 //    "影片状态":"集数：&&</div>",
         
-    "二次截取": "<body>&&</body>",  
+//    "二次截取": "<body>&&</body>",  
     "数组":"col-xs-6 col-md-3\">&&class=\"info\">",
     "标题":"title=\"&&\"",
     "副标题":"duration\">&&</var>",
