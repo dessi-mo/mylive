@@ -1,6 +1,8 @@
 {
 "站名":"实时直播",
 "主页url":"https://bbqq15.vip/zb/",
+"请求头": "MOBILE",
+"调试":"1",
 "直接播放":"1",
 "分类url":"https://bbqq15.vip/zb/?ju={cateId}/{class}.html",
 "分类":"亚洲直播$yzzb/zb/gwzb#新香蕉直播$xxj/zb#中文直播$yzzb/zb/cnzb#日本直播$yzzb/zb/ryzb#越南直播$yzzb/zb/yyzb#欧美直播$yzzb/zb/omzb#俄罗斯直播$yzzb/zb/egzb#乌克兰直播$yzzb/zb/wkl",
