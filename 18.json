@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/XBPQ.jar",
+  "spider": "./jar/jar/XBPQ_1203（优化搜索，解决同一页内容反复加载问题）.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
