@@ -15,7 +15,12 @@
 "链接":"href=\"/zb/&&.html\"",
 "链接前缀":"https://bbqq15.vip/zb/",
 "链接后缀":".html",
-"免嗅":"0",
+
+"播放数组": "body&&/body",
+"播放标题": "class=/"/">&&<",
+"播放链接": "https://ppyy01.vip/zb/wap.php?url=&&/">"，
+  
+"免嗅":"1",
 "筛选":{
   "xxj/zb": [
     {
