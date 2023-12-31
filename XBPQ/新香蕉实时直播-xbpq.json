@@ -21,7 +21,7 @@
 "播放数组": "body&&/body",
 "播放列表": "<iframe&&</iframe",
 "播放标题": "直播",
-"播放链接": "亚洲直播--php?url=&&\">+_auto.m3u8||新香蕉直播--php?url=&&\">",
+"播放链接": "亚洲直播--解析+php?url=&&\">+_auto.m3u8||新香蕉直播--php?url=&&\">",
 
 "跳转解析": "默认$http://zn.ghlyys.com/znjsonapi.php.php?url=#墨鸦独家$空#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url=",
 
