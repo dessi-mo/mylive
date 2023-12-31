@@ -1,7 +1,7 @@
 {
 "直接播放":"1",
 "站名":"黄仓库",
-"主页url":"http://hsck818.cc/",
+"主页url":"http://hsck819.cc/",
 
 "数组":"stui-vodlist__box&&</li>",
 "图片":"data-original=\"&&\"",
@@ -12,7 +12,7 @@
 "导演":"导演：&&</p>",
 "主演":"主演：&&</p>",
 "简介":"简介：&&</p>",
-"搜索url": "/vodsearch/{wd}----------{pg}---.html",
+"搜索url": "http://hsck819.cc/vodsearch/{wd}----------{pg}---.html",
 "搜索模式":"1",
 "搜索数组":"stui-vodlist__box&&</li>",
 "搜索图片":"data-original=\"&&\"",
