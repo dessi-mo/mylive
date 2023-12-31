@@ -52,7 +52,15 @@
       "filterable": 0,
       "ext": "./XBPQ/黄色仓库-xbpq.json"
     },
-
+    {
+      "key": "好色TV2(XBPQ)",
+      "name": "好色TV2",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_XBPQ",
+      "ext": "./js/haose.js"
+    },
     {
       "key": "好色TV(XBPQ)",
       "name": "好色TV",
