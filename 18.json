@@ -19,29 +19,29 @@
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
     {
-      "key": "直播秀",
-      "name": "直播秀",
+      "key": "香蕉直播XBPQ",
+      "name": "香蕉实时直播",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./XBPQ/新香蕉实时直播xbpq.json"
+      "ext": "./XBPQ/新香蕉实时直播-xbpq.json"
     },
     {
-      "key": "live直播",
-      "name": "live直播",
+      "key": "国产直播XBPQ",
+      "name": "国产直播秀",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./js/直播秀.js"
+      "ext": "./XBPQ/国产直播秀-xbpq.json"
     },
     {
-      "key": "黄色仓库",
+      "key": "黄色仓库XBPQ",
       "name": "黄色仓库",
       "type": 3,
       "api": "csp_XBPQ",
@@ -49,17 +49,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./js/黄色仓库.json"
+      "ext": "./XBPQ/黄色仓库-xbpq.json"
     },
 
     {
-      "key": "好色TV",
+      "key": "好色TVXBPQ",
       "name": "好色TV",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_XBPQ",
-      "ext": "./js/haose.js"
+      "ext": "./XBPQ/好色TV-xbpq.json"
     },
     {
       "key": "MTV转点播",
@@ -73,8 +73,8 @@
       "ext": "https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
     },
     {
-      "key": "csp_222",
-      "name": "姐姐",
+      "key": "玩偶姐姐XBPQ",
+      "name": "玩偶姐姐",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -89,7 +89,7 @@
       }
     },
     {
-      "key": "国产",
+      "key": "国产XBPQ",
       "name": "顶级国产",
       "type": 3,
       "api": "csp_XBPQ",
