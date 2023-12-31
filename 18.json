@@ -62,26 +62,6 @@
       "ext": "./js/haose.js"
     },
     {
-      "key": "csp_臭蛋蛋影视",
-      "name": "臭蛋蛋影视(HM2)",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/wlcmc1972/test/raw/master/XYQHiker/臭蛋蛋影视.json"
-    },
-    {
-      "key": "csp_XYQHiker_222",
-      "name": "XYQ_好色tv",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./xyq/haosetv.json"
-    },
-    {
       "key": "MTV转点播",
       "name": "🆎16万首MV",
       "type": 3,
@@ -118,7 +98,7 @@
         "ratio": 1.333
       },
       "ext": {
-        "分类url": "https://aoo.qoqoavideo2.sbs/vodtype/{cateId}/page/{catePg}.html",
+        "分类url": "https://owo.qoqoavideo3.xyz/vodtype/{cateId}/page/{catePg}.html",
         "直接播放": "1",
         "分类": "国产$20#日本无码$22#饵食牝$136#欧美$23#欧美精品$104#三级$25#韩片$129#韩国唯美三级$132#韩国明星学生$130#韩国主播$131#AI换脸$41#国产精品$26#SWAG$135#偷拍自拍$29#精彩时刻$33#91大神$137#国产主播$35#3P群交$127#麻豆传媒$134#国产调教$81#美熟少妇$125#网红模特$86#女神学生$124#野合车震$90"
       }
@@ -212,7 +192,7 @@
       "key": "hsck",
       "name": "黄色仓库",
       "type": 1,
-      "api": "http://hsck812.cc/api.php/provide/vod/",
+      "api": "http://hsck819.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -220,7 +200,7 @@
       "key": "hsck2",
       "name": "黄色仓库备用",
       "type": 1,
-      "api": "http://hsck946.cc/api.php/provide/vod/",
+      "api": "http://hsck949.cc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
