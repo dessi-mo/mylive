@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/Yoursmile.jar",
+  "spider": "./jar/custom_spider.jar",
   //"wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dessi-mo/mylive/main/18.json",
   "lives": [
     {
