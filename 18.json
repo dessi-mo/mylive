@@ -1,6 +1,6 @@
 {
   "spider": "./jar/XBPQ原版.jar",
-  "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dessi-mo/mylive/main/18.json",
+  //"wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dessi-mo/mylive/main/18.json",
   "lives": [
     {
       "name": "live",
