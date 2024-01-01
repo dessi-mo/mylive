@@ -1,13 +1,14 @@
 {
-"主页url":"http://api.hclyz.com:81/mf/json.txt",
-"首页": "http://api.hclyz.com:81/mf/json.txt",
-  
+"站名": "直播秀API",
+"请求头": "手机",
+"播放请求头": "手机",
+"主页url":"http://api.hclyz.com:81/mf/jsonmangguopai.txt",
 "分类url":"http://api.hclyz.com:81/mf/{cateId}",
 "分类":"直播$json.txt",
-
-        
+    
 "数组":"{ \"&&}",
 "标题":"title\":\"&&\"",
+"副标题":"直播数量:+Number\":\"&&\""，
 "图片":"xinimg\":\"&&\"",
 "链接":"address\":\"&&\"",
 "链接前缀":"http://api.hclyz.com:81/mf/",
