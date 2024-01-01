@@ -19,7 +19,7 @@
 "分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13",
 
 "数组":"<div class=\"img-box cover-md\">&&</h6>",
-"图片":"data-src=\"&&\"",
+"图片":"data-original=\"&&\"",
 "标题":"<h6 class=\"title\">&&</a>",
 "副标题":"<div class=\"ribbon-top-left\">&&</span>",
 "链接":"href=\"&&\"",
@@ -33,7 +33,7 @@
 "搜索数组":"<div class=\"img-box cover-md\">&&</h6>",
 "搜索标题":"<h6 class=\"title\">&&</a>",
 "搜索副标题":"<div class=\"ribbon-top-left\">&&</span>",
-"搜索图片":"data-src=\"&&\"",
+"搜索图片":"data-original=\"&&\"",
 "搜索链接":"href=\"&&\"",
   
 "播放数组":"class=\"item line\">&&</div>",
