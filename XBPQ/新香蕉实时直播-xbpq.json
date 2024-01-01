@@ -3,8 +3,8 @@
 "请求头": "手机",
 "播放请求头": "手机",
 "站名":"实时直播",
-"主页url":"https://yyrr10.vip/live/",
-"分类url":"https://yyrr10.vip/live/?ju={cateId}/{class}.html",
+"主页url":"https://yyrzb.vip/?vip=yzzb/zb/cnzb.html",
+"分类url":"https://yyrzb.vip/?vip={cateId}/{class}.html",
 "分类":"亚洲直播$yzzb/zb/gwzb#新香蕉直播$xxj/zb#中文直播$yzzb/zb/cnzb#日本直播$yzzb/zb/ryzb#越南直播$yzzb/zb/yyzb#欧美直播$yzzb/zb/omzb#俄罗斯直播$yzzb/zb/egzb#乌克兰直播$yzzb/zb/wkl",
 
 "数组":"<a&&</a>",
@@ -12,7 +12,7 @@
 "副标题":"<div class=\"duration\">&&</div>",
 "图片":"data-original=\"&&\"",
 "链接":"href=\"/zb/&&.html\"",
-"链接前缀":"https://bbqq15.vip/zb/",
+"链接前缀":"https://yyrzb.vip/",
 "链接后缀":".html",
 
 //"跳转播放链接": "亚洲直播--php?url=&&\">+_auto.m3u8||新香蕉直播--php?url=&&\">",
