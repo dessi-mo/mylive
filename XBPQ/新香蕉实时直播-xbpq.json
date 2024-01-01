@@ -20,12 +20,11 @@
 "播放标题": "直播",
   
 //"跳转播放链接": "亚洲直播--php?url=&&\">+_auto.m3u8||新香蕉直播--php?url=&&\">",
-//"跳转解析": "默认$https://im1907.top/?jx=",
+//
 
   
 "播放链接": "默认--php?url=&&\">+_auto.m3u8||新香蕉直播--php?url=&&\">",
-  
-"跳转解析": "默认$http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url=",
+"跳转解析": "默认$https://im1907.top/?jx=",
   
 "免嗅": "1",
 "嗅探词": "http#flv#m3u8",
