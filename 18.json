@@ -35,7 +35,6 @@
       "name": "香蕉实时直播",
       "type": 3,
       "api": "csp_XBPQ",
-      "playUrl": "parse:纯净/B站",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
