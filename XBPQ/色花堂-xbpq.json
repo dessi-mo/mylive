@@ -21,7 +21,7 @@
 "数组":"<div class=\"img-box cover-md\">&&</h6>",
 "图片":"data-original=\"&&\"",
 "标题":"<h6 class=\"title\">&&</a>",
-"副标题":"<div class=\"ribbon-top-left\">&&</span>",
+"副标题":"<div class=\"ribbon-top-left\">&&</div>",
 "链接":"href=\"&&\"",
 
   
@@ -32,7 +32,7 @@
 "搜索模式":"1",
 "搜索数组":"<div class=\"img-box cover-md\">&&</h6>",
 "搜索标题":"<h6 class=\"title\">&&</a>",
-"搜索副标题":"<div class=\"ribbon-top-left\">&&</span>",
+"搜索副标题":"<div class=\"ribbon-top-left\">&&</div>",
 "搜索图片":"data-original=\"&&\"",
 "搜索链接":"href=\"&&\"",
   
