@@ -38,7 +38,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./XBPQ/新香蕉实时直播-xbpq.json"
+      "ext": "./XBPQ/新香蕉实时直播-xbpq.json",
+      "playUrl": "https://im1907.top/?jx="
     },
     {
       "key": "国产直播(XBPQ)",
