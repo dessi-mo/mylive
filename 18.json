@@ -20,6 +20,17 @@
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
     {
+      "key": "色花堂(XBPQ)",
+      "name": "色花堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/色花堂-xbpq.json"
+    },
+    {
       "key": "香蕉直播(XBPQ)",
       "name": "香蕉实时直播",
       "type": 3,
