@@ -1,8 +1,7 @@
 // 发布页:https://hsex.men/
 {
     "站名":"好色TV",
-    "请求头": "手机",
-    "播放请求头": "手机",
+    "头部集合": "user-agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
     "主页url":"https://hsex.icu",
     "分类url":"https://hsex.icu/{cateId}-{catePg}.htm[https://hsex.icu/{cateId}-1.htm]",
     "分类":"全部$list#周榜$top7_list#月榜$top_list#5分钟以上$5min_list#10分钟以上$long_list",
