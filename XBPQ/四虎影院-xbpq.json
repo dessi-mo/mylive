@@ -1,22 +1,27 @@
 // 发布页:www.4hu.tv
 {
   "站名": "四虎影院",
-  "主页url": "https://www.b2dac.com/Enter/home.html",
-  "分类url":"https://www.b2dac.com/{cateId}/{class}/index_{catePg}.html[https://www.b2dac.com/{cateId}/index.html]",
+  "主页url": "https://www.3fc6d.com/Enter/home.html",
+  "分类url":"https://www.3fc6d.com/{cateId}/{class}/index_{catePg}.html[https://www.b2dac.com/{cateId}/index.html]",
   "分类":"国产$video#女优$av#电影$movie#onlyfans$onlyfans",
-  
+
+  "数组二次截取": "row col5 clearfix&&</div>",
+  "数组":"<dl>&&</dl>",
   "图片":"data-original=\"&&\"",
-  "标题":"title=\"&&\"",
+  "标题":"Base64(d('&&'))",
+  "副标题":"<i>&&</i>",
   "链接":"href=\"&&\"",
   
-
+//  "搜索url":"https://www.3fc6d.com/searchs/index.php?keyboard={wd}&classid=0&page={pg}",
+//  "搜索模式":"1",
+//  "搜索数组":"<dt>&&</dt>[不包含:自拍偷拍#美腿丝袜#欧美色图#卡通图片#都市小说#乱伦小说#校园小说#人妻小说]",
+//  "搜索标题":"_blank\">&&</a>",
+//  "搜索副标题":"url\">&&</span>",
+//  "搜索图片":"data-original=\"&&\"",
+//  "搜索链接":"href=\"&&\"",
   
-
-  "搜索url":"https://www.b2dac.com/searchs/index.php?keyboard={wd}&classid=0&page={pg}",
-  "搜索模式":"1",
-
   "线路数组": "<div class=\"item\">&&</div>",
-  "线路标题": ">&&</a>",
+  "线路标题": "Base64(d('&&'))",
   
   "播放数组": "<div class=\"item&&</div>",
   "状态": "分类：</span>&&</p>",
@@ -25,7 +30,7 @@
   "简介": "名称：&&</h3>",
   
   "播放列表": "<a&&/a>",
-  "播放标题": ">&&<",
+  "播放标题": "Base64(d('&&'))",
   "播放链接":"href=\"&&\"",
 
   "筛选":{
