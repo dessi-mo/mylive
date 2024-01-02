@@ -20,53 +20,15 @@
       "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"
     },
     {
-      "key": "四虎影院(XBPQ)",
-      "name": "四虎影院",
+      "key": "MTV转点播",
+      "name": "🆎16万首MV",
       "type": 3,
-      "api": "csp_XBPQ",
-      "filterable": 1,
-      "ext": "./XBPQ/四虎影院-xbpq.json"
-    },
-    {
-      "key": "搞色(XBPQ)",
-      "name": "搞色",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/搞色-xbpq.json"
-    },
-    {
-      "key": "18av(XBPQ)",
-      "name": "18av",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/18av-xbpq.json"
-    },
-    {
-      "key": "秘密公寓(XBPQ)",
-      "name": "秘密公寓",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/秘密公寓-xbpq.json"
-    },
-    {
-      "key": "色花堂(XBPQ)",
-      "name": "色花堂",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XBPQ/色花堂-xbpq.json"
+      "api": "https://notabug.org/wlcmc1972/test/raw/master/jar/live2cms.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "playerType": 12,
+      "ext": "https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
     },
     {
       "key": "黄色仓库(XBPQ)",
@@ -111,15 +73,43 @@
       "ext": "./XBPQ/国产直播秀-xbpq.json"
     },
     {
-      "key": "MTV转点播",
-      "name": "🆎16万首MV",
+      "key": "四虎影院(XBPQ)",
+      "name": "四虎影院",
       "type": 3,
-      "api": "https://notabug.org/wlcmc1972/test/raw/master/jar/live2cms.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "playerType": 12,
-      "ext": "https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "ext": "./XBPQ/四虎影院-xbpq.json"
+    },
+    {
+      "key": "AV猫(XBPQ)",
+      "name": "AV猫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/AV猫-xbpq.json"
+    },
+    {
+      "key": "秘密公寓(XBPQ)",
+      "name": "秘密公寓",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/秘密公寓-xbpq.json"
+    },
+    {
+      "key": "色花堂(XBPQ)",
+      "name": "色花堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/色花堂-xbpq.json"
     },
     {
       "key": "玩偶姐姐(XBPQ)",
