@@ -30,6 +30,16 @@
       "ext": "./XBPQ/秘密公寓-xbpq.json"
     },
     {
+      "key": "搞色(XBPQ)",
+      "name": "搞色",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/搞色-xbpq.json"
+    },
+    {
       "key": "色花堂(XBPQ)",
       "name": "色花堂",
       "type": 3,
