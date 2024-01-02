@@ -8,9 +8,9 @@
   "分类url":"https://www.3fc6d.com/{cateId}/{class}/index_{catePg}.html[https://www.3fc6d.com/{cateId}/{class}/index.html]",
   "分类":"国产$video#女优$av#电影$movie#onlyfans$onlyfans",
 
-  "数组二次截取": "</span></div>&&</div>",
-  "数组":"<dl>&&</dl>[不包含:5Zu95Lqn]",
-  "图片":"data-original=\"&&\"",
+  "二次截取": "</span></div>&&</div>",
+  "数组":"<dl>&&</dl>",
+  "图片":"data-original=\"&&\"[替换:cover.txt>>poster2.jpg]",
   "标题":"Base64(d('&&'))",
   "副标题":"<i>&&</i>",
   "链接":"href=\"&&\"",
