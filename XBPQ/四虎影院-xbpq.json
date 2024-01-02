@@ -8,7 +8,7 @@
   "分类url":"https://www.4fa14.com/{cateId}/{class}/index_{catePg}.html[https://www.4fa14.com/{cateId}/{class}/index.html]",
   "分类":"国产$video#女优$av#电影$movie#onlyfans$onlyfans",
 
-  "二次截取": "class=/"row&&</body>",
+  "二次截取": "class=\"row&&</body>",
   "数组":"<dl>&&</dl>",
   "图片":"data-original=\"&&\"[替换:cover.txt>>poster2.jpg]",
   "标题":"Base64(d('&&'))",
