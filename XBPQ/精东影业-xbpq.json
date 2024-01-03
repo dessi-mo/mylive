@@ -31,7 +31,7 @@
 "播放数组":"<ul class=\"detail-play-list clearfix&&</ul>",
 "播放列表":"<li><a&&/a>",
 "播放标题":">&&<",
-"播放链接":"},\"url":\"&&\"",
+"播放链接":"},\"url\":\"&&\"",
 "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
 
 "免嗅":"1",
