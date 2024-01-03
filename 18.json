@@ -31,6 +31,16 @@
       "ext": "https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
     },
     {
+      "key": "精东影业(XBPQ)",
+      "name": "精东影业",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/精东影业-xbpq.json"
+    },
+    {
       "key": "麻豆映画(XBPQ)",
       "name": "麻豆映画",
       "type": 3,
