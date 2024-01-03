@@ -34,7 +34,7 @@
   "播放数组": "body&&</body>",
   "播放列表": "player_data&&views-comments",
   "播放标题": "title=\"&&\"",
-  "播放链接": "Base64(\"url\":\"&&\"[替换:12345>>*#http>>http2])",
+  "播放链接": "Base64(\"url\":\"&&\"[替换:5�~9>>空])",
   
   "免嗅":"1",
   "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
