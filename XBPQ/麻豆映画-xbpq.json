@@ -34,8 +34,8 @@
   "播放数组": "body&&</body>",
   "播放列表": "player_data&&views-comments",
   "播放标题": "title=\"&&\"",
-  "跳转播放链接": "https://jiexi.ttbfp1.com/m3u8/?url=+\"url\":\"&&\"[替换:12345>>空]",
-  "二次跳转播放链接": "Base64(main = \"&&\")",
+  "跳转播放链接": "https://www.madoupj.com/addons/dplayer/?url=+\"url\":\"&&\"",
+  "二次跳转播放链接": "urls = \"&&\"",
   //"播放链接": "Base64(\"url\":\"&&\")[替换:.m3u8*$空]",
   
   "免嗅":"1",
