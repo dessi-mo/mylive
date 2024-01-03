@@ -10,7 +10,7 @@
 "数组":"<a class=\"thum&&</a></h5>",
 "图片":"src=\"&&\"",
 "标题":"title=\"&&\"",
-"链接":"href=\"&&.html\"",
+"链接":"href=\"&&.html\"[替换:smdetail>>smplay]",
 "链接后缀":"-1-1.html",
   
 "搜索url": "/{wd}----------{pg}---.html",
@@ -18,7 +18,7 @@
 "搜索数组":"<li>&&</li>",
 "搜索图片":"src=\"&&\"",
 "搜索标题":"title=\"&&\"",
-"搜索链接":"href=\"&&.html\"",
+"搜索链接":"href=\"&&.html\"[替换:smdetail>>smplay]",
 "搜索链接后缀":"-1-1.html",
   
 "线路数组":"<ul class=\"detail-tab&&</ul>",
