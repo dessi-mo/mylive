@@ -31,6 +31,16 @@
       "ext": "https://notabug.org/wlcmc1972/test/raw/master/xb/16万首MV.json"
     },
     {
+      "key": "麻豆映画(XBPQ)",
+      "name": "麻豆映画",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XBPQ/麻豆映画-xbpq.json"
+    },
+    {
       "key": "黄色仓库(XBPQ)",
       "name": "黄色仓库",
       "type": 3,
