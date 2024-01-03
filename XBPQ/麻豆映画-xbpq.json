@@ -34,6 +34,7 @@
   "播放数组": "body&&</body>",
   "播放列表": "player_data&&views-comments[替换:12345>>空]",
   "播放标题": "title=\"&&\"",
+  "播放请求头":"referer$https://www.madoupj.com/",
   "播放链接": "Base64(url\":\"&&\")[替换:incex>>1000kb/hls/index]",
   
   "免嗅":"1",
