@@ -92,7 +92,25 @@
 {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
 {"category":4,"name":"mediacodec-hevc","value":"1"},
 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+
+
+"rules": [
+{"name": "didi精东广告","hosts": ["v.didi"],
+"regex": ["#EXT-X-KEY:METHOD=AES-128,URI="/20231018/pMt3mbtr/2000kb/hls/key.key"[\s\S]*?#EXT-X-DISCONTINUITY"]},
   
+{"name": "量子廣告","hosts": ["vip.lz","hd.lz"],
+"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+    
+{"name": "非凡廣告","hosts": ["vip.ffzy","hd.ffzy"],
+"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+
+{"name": "火山嗅探","hosts": ["huoshan.com"],
+"regex": ["item_id="]},
+
+{"name": "抖音嗅探","hosts": ["douyin.com"],
+"regex": ["is_play_url="]}
+],
+
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
