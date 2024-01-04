@@ -96,7 +96,7 @@
 
 "rules": [
 {"name": "didi精东广告","hosts": ["v.didi"],
-"regex": ["#EXT-X-KEY:METHOD=AES-128,URI="/20231018/pMt3mbtr/2000kb/hls/key.key"[\s\S]*?#EXT-X-DISCONTINUITY"]},
+"regex": ["#EXT-X-KEY:METHOD=AES-128,URI=\"/20231018/pMt3mbtr/2000kb/hls/key.key[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
   
 {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],
 "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
