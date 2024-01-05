@@ -14,17 +14,6 @@
 {"key":"豆瓣(js)","name":" 🍓豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
 {"key":"好色TV(XBPQ)","name":"🔞好色TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/好色TV-xbpq.json"},
 
-
-    
-{"key":"测试1","name":"🔞测试1","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"测试2","name":"🔞测试2","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"测试3","name":"🔞测试3","type":0,"api":"http://api.11bat.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"测试4","name":"🔞测试4","type":1,"api":"https://apittzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"测试5","name":"🔞测试5","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"测试6","name":"🔞测试6","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"测试7","name":"🔞测试7","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
-
-
     
 {"key":"测试分割线1","name":"----测试分割----","type":1,"api":""},
 {"key":"测试分割线2","name":"----测试分割----","type":0,"api":""},
