@@ -12,9 +12,14 @@
   ],
   "sites": [
 {"key":"豆瓣(js)","name":" 🍓豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
-
-//速度好的资源网
 {"key":"好色TV(XBPQ)","name":"🔞好色TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/好色TV-xbpq.json"},
+
+
+    
+{"key":"测试分割线1","name":"----测试分割----","type":1,"api":""},
+{"key":"测试分割线2","name":"----分割----","type":0,"api":""},
+//速度好的资源网
+
 {"key":"黄色仓库(XBPQ)","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/黄色仓库-xbpq.json"},
 {"key":"精东影业(XBPQ)","name":"🔞精东影业","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/精东影业-xbpq.json"},
 {"key":"麻豆映画(XBPQ)","name":"🔞麻豆映画","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/麻豆映画-xbpq.json"},
@@ -23,12 +28,12 @@
     
 {"key":"环亚资源","name":"🔞环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"JAV名优","name":"🔞JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"gdlsE","name":"🔞香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"kxgav","name":"🔞白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"香奶儿资源","name":"🔞香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"白嫖资源","name":"🔞白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"玖玖资源","name":"🔞玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"久草资源","name":"🔞久草资源","type":0,"api":"http://jcspcj8.com/api?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"富二代资源","name":"🔞富二代资源","type":0,"api":"http://f2dcj6.com/sapi?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"zmcj88","name":"🔞字幕网资源","type":0,"api":"http://zmcj88.com/sapi?ac=list","searchable":1,"quickSearch":1},
+{"key":"字幕网资源","name":"🔞字幕网资源","type":0,"api":"http://zmcj88.com/sapi?ac=list","searchable":1,"quickSearch":1},
 
 //直播类
 {"key":"香蕉直播(XBPQ)","name":"🔞香蕉实时直播","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext":"./XBPQ/新香蕉实时直播-xbpq.json"},
