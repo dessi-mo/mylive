@@ -14,6 +14,7 @@
 
   "搜索模式":"1",
   "搜索url":"/vodsearch/{wd}----------{pg}---.html",
+  "搜索二次截取": "结果共&&\"pagination\"",
   "搜索链接": "<a href=\"&&\"",
   "搜索数组":"<article&&</article>",
   "搜索图片":"data-src=\"&&\"",
