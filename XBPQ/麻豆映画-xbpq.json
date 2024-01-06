@@ -16,7 +16,7 @@
   "链接后缀": "-1-1.html",
 
   "搜索模式": "1",
-  "搜索url": "https://www.madoupj.com/index.php/vodsearch/{wd}----------{pg}---.html",
+  "搜索url": "/index.php/vodsearch/{wd}----------{pg}---.html",
   "搜索数组": "<div class=\"col-sm-4\">&&</div>",
   "搜索图片": "img src=\"&&\"",
   "搜索标题": "title=\"&&\"",
