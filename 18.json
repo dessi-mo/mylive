@@ -14,7 +14,7 @@
 {"key":"豆瓣(js)","name":" 🍓豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
 {"key":"好色TV(XBPQ)","name":"🔞好色TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/好色TV-xbpq.json"},
 
-    
+{"key":"18AV(XBPQ)","name":"🔞18AV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/18AV-xbpq.json"},
 {"key":"测试分割线1","name":"----测试分割----","type":1,"api":""},
 {"key":"测试分割线2","name":"----测试分割----","type":0,"api":""},
 //速度好的资源网
