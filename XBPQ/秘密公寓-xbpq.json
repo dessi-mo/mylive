@@ -1,27 +1,30 @@
 // 发布页:https://fulidaohang.gitbook.io/untitled-1/
+
 {
-  "调试":"1",
-  "头部集合": "user-agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
   "站名":"秘密公寓",
   "主页url":"https://304mm.shop/",
   "分类":"国产$vodtype/23#无码$vodtype/26#麻豆$vodtype/27#吃瓜$vodtype/28#动漫$vodtype/29",
   "分类url":"https://304mm.shop/{cateId}-{catePg}.html",
+  "直接播放":"1",
+  "图片代理":"0",
 
   "数组":"<article&&</article>",
   "图片":"data-src=\"&&\"",
   "标题":"alt=\"&&\"",
   "副标题":"<span class=\"label\">&&</span>",
   "链接":"href=\"&&\"",
-
+  "状态":"<h1 style=\"font-size:20px\" class=\"title\">&&</h1>",
+  "导演":"導演：</span>&&</p>",
+  "主演":"主演：</span>&&</p>",
+  "简介":"<span class=\"mr-3\">&&</span>",
+  
   "搜索模式":"1",
-  "搜索url":"/vodsearch/{wd}----------{pg}---.html",
-  "搜索二次截取": "结果共&&\"pagination\"",
-  "搜索链接": "<a href=\"&&\"",
+  "搜索url":"https://mmgy.cc/vodsearch/{wd}----------{pg}---.html",
   "搜索数组":"<article&&</article>",
   "搜索图片":"data-src=\"&&\"",
-  "搜索标题":"title=\"&&\"",
-  
+  "搜索标题":"alt=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+
   "免嗅":"0",
-  "过滤词":"rn-80",
   "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
 }
