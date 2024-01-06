@@ -18,7 +18,7 @@
   "简介":"<span class=\"mr-3\">&&</span>",
   
   "搜索模式":"1",
-  "搜索url":"/vodsearch/-------------.html?wd={wd}",
+  "搜索url":"/vodsearch/{wd}----------{pg}---.html",
   "搜索数组":"<article&&</article>",
   "搜索图片":"data-src=\"&&\"",
   "搜索标题":"alt=\"&&\"",
