@@ -19,10 +19,10 @@
 {"key":"测试分割线2","name":"----测试分割----","type":0,"api":""},
 //速度好的资源网
 
-{"key":"黄色仓库(XBPQ)","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"ext":"./XBPQ/黄色仓库-xbpq.json"},
+{"key":"黄色仓库(XBPQ)","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/黄色仓库-xbpq.json"},
 {"key":"精东影业(XBPQ)","name":"🔞精东影业","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/精东影业-xbpq.json"},
 {"key":"麻豆映画(XBPQ)","name":"🔞麻豆映画","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/麻豆映画-xbpq.json"},
-{"key":"四虎影院(XBPQ)","name":"🔞四虎影院","type":3,"api":"csp_XBPQ","filterable":1,"ext":"./XBPQ/四虎影院-xbpq.json"},
+{"key":"四虎影院(XBPQ)","name":"🔞四虎影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/四虎影院-xbpq.json"},
 {"key":"秘密公寓(XBPQ)","name":"🔞秘密公寓","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/秘密公寓-xbpq.json"},
     
 {"key":"环亚资源","name":"🔞环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
