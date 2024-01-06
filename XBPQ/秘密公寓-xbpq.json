@@ -13,11 +13,7 @@
   "标题":"alt=\"&&\"",
   "副标题":"<span class=\"label\">&&</span>",
   "链接":"href=\"&&\"",
-  "状态":"<h1 style=\"font-size:20px\" class=\"title\">&&</h1>",
-  "导演":"導演：</span>&&</p>",
-  "主演":"主演：</span>&&</p>",
-  "简介":"<span class=\"mr-3\">&&</span>",
-  
+
   "搜索模式":"1",
   "搜索url":"/vodsearch/{wd}----------{pg}---.html",
   "搜索数组":"<article&&</article>",
