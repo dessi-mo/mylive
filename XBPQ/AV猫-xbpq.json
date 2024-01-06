@@ -3,12 +3,12 @@
 {
 "站名":"AV猫",
 "主页url":"https://67haoff.com/",
-"分类url":"https://67haoff.com/gaotype/{cateId}_{catePg}.html[https://www.67haoff.com/gaotype/{cateId}.html]",
+"分类url":"https://67haoff.com/typegaoyy/{cateId}_{catePg}.html[https://www.67haoff.com/typegaoyy/{cateId}.html]",
 
 "分类二次截取": "<section&&</section>",
 "分类数组": "<li&&</li>",
 "分类标题": "\">&&</",
-"分类ID": "href=\"&&.html",
+"分类ID": "href=\"/typegaoyy/&&.html",
 
 "数组": "col-lg-3&&</a>[不包含:站长推荐]",
 "图片":"data-original=\"&&\"",
