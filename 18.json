@@ -12,10 +12,10 @@
   ],
   "sites": [
 {"key":"豆瓣(js)","name":" 🍓豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
-{"key":"好色TV(XBPQ)","name":"🔞好色TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好色TV-xbpq.json"},
+{"key":"好色TV(XBPQ)","name":"🔞好色TV[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好色TV-xbpq.json"},
 
-
-
+{"key":"菲菲资源","name":"🔞菲菲资源[伦理]","type":1,"api":"https://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"鸡坤资源","name":"🔞鸡坤资源[聚合]","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 
 
@@ -23,14 +23,14 @@
 {"key":"测试分割线2","name":"--测试分割--","type":0,"api":""},
 //速度好的资源网
 
-{"key":"黄色仓库(XBPQ)","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/黄色仓库-xbpq.json"},
-{"key":"精东影业(XBPQ)","name":"🔞精东影业","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/精东影业-xbpq.json"},
-{"key":"麻豆映画(XBPQ)","name":"🔞麻豆映画","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/麻豆映画-xbpq.json"},
-{"key":"四虎影院(XBPQ)","name":"🔞四虎影院","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/四虎影院-xbpq.json"},
-{"key":"秘密公寓(XBPQ)","name":"🔞秘密公寓","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/秘密公寓-xbpq.json"},
+{"key":"黄色仓库(XBPQ)","name":"🔞黄色仓库[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/黄色仓库-xbpq.json"},
+{"key":"精东影业(XBPQ)","name":"🔞精东影业[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/精东影业-xbpq.json"},
+{"key":"麻豆映画(XBPQ)","name":"🔞麻豆映画[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/麻豆映画-xbpq.json"},
+{"key":"四虎影院(XBPQ)","name":"🔞四虎影院[国产]","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/四虎影院-xbpq.json"},
+{"key":"秘密公寓(XBPQ)","name":"🔞秘密公寓[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/秘密公寓-xbpq.json"},
     
-{"key":"环亚资源","name":"🔞环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"JAV名优","name":"🔞JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"环亚资源","name":"🔞环亚资源[AV]","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"JAV名优","name":"🔞JAV名优[AV]","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"香奶儿资源","name":"🔞香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"白嫖资源","name":"🔞白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"玖玖资源","name":"🔞玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
