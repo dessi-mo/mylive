@@ -7,7 +7,7 @@
   
 "站名":"天天聚合",
 "主页url":"https://yyrav1.cc/",
-"分类url":"https://yyrav1.cc/{cateId}/{class}.html[https://yyrav1.cc/{cateId}]",
+"分类url":"https://yyrav1.cc/{cateId}-{catePg}.html[https://yyrav1.cc/{cateId}]",
 
 "分类二次截取": "实时直播&&激情小说",
 "分类数组": "<a&&</a>",
@@ -20,6 +20,98 @@
 "副标题":"<div class=\"duration\">&&</div>",
 "图片":"data-original=\"&&\"",
 "链接":"href=\"&&\"",
+"链接前缀":"",
+"链接后缀":"",
 
-"免嗅":"0"
+"线路数组":"",
+"线路标题":"",
+  
+"播放数组": "player_aaaa&&</script>",
+"影片年代":"年份：&&</li>",
+"影片地区":"地区：&&</li>",
+"影片类型":"类型：&&</li>",
+"导演":"导演：&&</li>",
+"主演":"主演：&&</li>",
+"简介":"简介：&&</li>",
+"播放列表": "vod_class&&server",
+"播放标题": "直接播放",
+"播放链接": "url\":\"&&\"",
+"播放链接前缀":"",
+"播放链接后缀":"",
+"免嗅":"0",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+"过滤词":"",
+  
+"筛选":{
+  "/cn/": [
+    {
+      "key": "cateId",
+      "name": "",
+      "value": [
+        {"n": "全部","v": "/cn/" },
+        {"n": "解说原片","v": "/cn/clm-jieshuoyuanpian" },
+        {"n": "3D同人","v": "/cn/clm-3Dtongren" },
+        {"n": "中文无码","v": "clm-zhongwenwuma" },
+        {"n": "中文综合","v": "/cn/clm-zhongwenzonghe" },
+        {"n": "中文近亲","v": "/cn/clm-zhongwenjingqing" },
+        {"n": "中文护士","v": "/cn/clm-zhongwenhushi" },
+        {"n": "中文师生","v": "/cn/clm-zhongwenshisheng" },
+        {"n": "中文强奸","v": "/cn/clm-zhongwenqiangjian" },
+        {"n": "明星淫梦","v": "/cn/clm-mingxingyinmeng" },
+        {"n": "国产自拍","v": "/cn/clm-guochanzipai" },
+        {"n": "三级伦理","v": "/cn/clm-sanjizonghe"}
+      ]
+    }
+  ],
+  "/hd/": [
+    {
+      "key": "cateId",
+      "name": "",
+      "value": [
+        {"n": "卡哇伊直播","v": "kwy" },
+        {"n": "咪狐直播","v": "mh"}
+      ]
+    }
+  ],
+    "/shui/": [
+    {
+      "key": "cateId",
+      "name": "",
+      "value": [
+        {"n": "卡哇伊直播","v": "kwy" },
+        {"n": "咪狐直播","v": "mh"}
+      ]
+    }
+  ],
+    "madav": [
+    {
+      "key": "cateId",
+      "name": "",
+      "value": [
+        {"n": "卡哇伊直播","v": "kwy" },
+        {"n": "咪狐直播","v": "mh"}
+      ]
+    }
+  ],
+    "/99sp/": [
+    {
+      "key": "cateId",
+      "name": "",
+      "value": [
+        {"n": "卡哇伊直播","v": "kwy" },
+        {"n": "咪狐直播","v": "mh"}
+      ]
+    }
+  ],
+    "/fcsp/": [
+    {
+      "key": "cateId",
+      "name": "",
+      "value": [
+        {"n": "卡哇伊直播","v": "kwy" },
+        {"n": "咪狐直播","v": "mh"}
+      ]
+    }
+  ]
+}
 }
