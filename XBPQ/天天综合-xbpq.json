@@ -7,7 +7,7 @@
   
 "站名":"天天聚合",
 "主页url":"https://yyrav1.cc/",
-"分类url":"https://yyrav1.cc/{cateId}-{catePg}.html",
+"分类url":"https://yyrav1.cc/{cateId}/{class}.html[https://yyrav1.cc/{cateId}]",
 
 "分类二次截取": "实时直播&&激情小说",
 "分类数组": "<a&&</a>",
