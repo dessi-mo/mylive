@@ -39,7 +39,7 @@
 {"key":"字幕网资源","name":"🔞字幕网资源","type":0,"api":"http://zmcj88.com/sapi?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 
 //直播类
-{"key":"香蕉直播(XBPQ)","name":"🔞香蕉实时直播","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext":"./XBPQ/新香蕉实时直播-xbpq.json"},
+{"key":"天天直播(XBPQ)","name":"🔞天天实时直播","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext":"./XBPQ/天天实时直播-xbpq.json"},
 {"key":"国产直播(XBPQ)","name":"🔞国产直播秀","type":3,"api":"csp_XBPQ","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./XBPQ/国产直播秀-xbpq.json"},
     
 {"key":"分割线1","name":"----分割----","type":1,"api":""},
