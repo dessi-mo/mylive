@@ -3,7 +3,7 @@
 "主页url":"https://yyrav1.cc/cn/",
 "分类url":"https://yyrav1.cc/{cateId}-{catePg}.html",
 
-"分类二次截取": 首页\">&&</ul>",
+"分类二次截取": "首页\">&&</ul>",
 "分类数组": "<li>&&</li>",
 "分类标题": "\">&&</",
 "分类ID": "href=\"&&.html",
