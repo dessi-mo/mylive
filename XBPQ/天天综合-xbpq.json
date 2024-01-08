@@ -1,38 +1,19 @@
 {
 "站名":"天天聚合",
-"主页url":"https://yyrav2.cc/",
-"分类url":"https://yyrav2.cc/{cateId}-{catePg}.html",
+"主页url":"https://yyrav1.cc/",
+"分类url":"https://yyrav1.cc/{cateId}-{catePg}.html",
 
 "分类二次截取": "实时直播&&激情小说",
 "分类数组": "<a&&</a>",
 "分类标题": "\">&&</",
-"分类ID": "href=\"&&\"",
-
+"分类ID": "href=\"&&?",
+  
+"二次截取":"list-videos&&</div></div></div>",
 "数组":"<a style&&</a>",
 "标题":"title=\"&&\"",
 "副标题":"<div class=\"duration\">&&</div>",
 "图片":"data-original=\"&&\"",
 "链接":"href=\"&&\"",
-//"链接前缀":"https://yyrr10.vip/live/",
-//"链接后缀":".html",
 
-  
-//"线路数组":"<div class=\"item line\">&&</div>[排序:线路一>线路二>线路三]",
-//"线路标题":">&&</a>",
-
-//"搜索url":"/vodsearch/{wd}----------{pg}---.html",
-//"搜索模式":"1",
-//"搜索数组":"<div class=\"img-box cover-md\">&&</h6>",
-//"搜索标题":"<h6 class=\"title\">&&</a>",
-//"搜索副标题":"<div class=\"ribbon-top-left\">&&</div>",
-//"搜索图片":"data-original=\"&&\"",
-//"搜索链接":"href=\"&&\"",
-  
-//"播放数组":"class=\"item line\">&&</div>",
-//"影片类型":"<p class=\"sub-title\">&&</p>",
-//"简介":"<div class=\"header-left\">&&</div>",
-//"播放列表":"<a&&/a>",
-//"播放标题":">&&<",
-//"播放链接":"href=\"&&\"",
 "免嗅":"0"
 }
