@@ -38,9 +38,9 @@
 				"播放二次截取": "&&[替换]",
 				"播放数组": "urls*\\[&&\\]",
 				"播放列表": "{&&}",
-				"跳转播放链接": "\"url\"*\"&&\""，
+				"跳转播放链接": "\"url\"*\"&&\"",
 				"播放标题": "\"name\"*\"&&\"",
-				"跳转解析": "默认$http://zn.ghlyys.com/znjsonapi.php.php?url=#墨鸦独家$空#墨鸦VIP$http://110.42.2.247:880//analysis//json//?uid=2496&my=abefhjpvBCGJLOUWX3&format=json&url="，
+				"跳转解析": "默认$https://im1907.top/?jx=#墨鸦独家$空#墨鸦VIP$https://jiexi.ttbfp1.com/m3u8/?url=",
 				"播放链接": "解析+\"url\"*\"&&\"",
 				"搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
 				"搜索模式": "1",
