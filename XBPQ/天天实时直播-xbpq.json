@@ -16,14 +16,14 @@
 "链接后缀":"",
 
 "播放数组": "body&&/body",
-"播放列表": "<iframe&&</iframe",
+"播放列表": "<iframe&&</iframe[替换:WAP>>空#iso>>_auto.m3u8]",
 "播放标题": "直播",
   
 //"跳转播放链接": "亚洲直播--php?url=&&\">+_auto.m3u8||新香蕉直播--php?url=&&\">",
 //"播放链接": "默认--php?url=&&\">+_auto.m3u8||新香蕉直播--php?url=&&\">",
 //"播放链接": "src=\"&&\"",
   
-"播放链接": "php?url=&&\">+/zb/&&.php[替换:WAP>>空#iso>>_auto.m3u8]",
+"播放链接": "php?url=&&\">+/zb/&&.php",
 
 "嗅探词": "http#flv#m3u8",
 "过滤词":"jpg#png#rtmp",
