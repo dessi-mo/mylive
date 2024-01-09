@@ -92,12 +92,12 @@
       ]
     }
   ],
-    "/madav/": [
+    "/mdav/": [
     {
       "key": "cateId",
       "name": "",
       "value": [
-        {"n": "全部","v": "/madav/" },
+        {"n": "全部","v": "/mdav/" },
         {"v": "/mdav/mlm-madouyuanchuang","n": "综合传媒"},
        {"v": "/mdav/mlm-91zhipianchang","n": "91制片厂"},
        {"v": "/mdav/mlm-xingbayuanchuang","n": "杏吧原创"},
