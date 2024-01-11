@@ -4,7 +4,7 @@
 "调试":"0",
 "作者":"dessi",
 "站名":"数字系列-解说",
-"主页url":"https://www.60561.xyz/index.php/art/type/id/17.html",
+"主页url":"https://www.60561.xyz/",
 "分类url":"https://www.60561.xyz/index.php/art/type/id/{cateId}/page/{catePg}.html",
 "分类":"解说$17",
 
@@ -21,7 +21,7 @@
 "线路标题":"数字系列-解说",
 
 
-"搜索url":"{wd}={pg}---.html",
+"搜索url":"/index.php/art/type/id/17/page/1.html?wd=少妇",
 "搜索后缀":"",
 "搜索模式":"1",
 "搜索二次截取":"",
