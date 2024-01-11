@@ -13,7 +13,8 @@
   "sites": [
 {"key":"豆瓣(js)","name":" 🍓豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
 {"key":"好色TV(XBPQ)","name":"🔞好色TV[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好色TV-xbpq.json"},
-
+	  
+{"key":"数字无码(XBPQ)","name":"🔞数字无码[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/数字-无码-xbpq.json"},
 {"key":"数字解说(XBPQ)","name":"🔞数字解说[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/数字-解说-xbpq.json"},
 {"key":"菲菲资源","name":"🔞菲菲资源[伦理]","type":1,"api":"https://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"鸡坤资源","name":"🔞鸡坤资源[聚合]","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
