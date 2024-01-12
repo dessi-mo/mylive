@@ -4,12 +4,12 @@
 
 "站名":"蝌蚪窝",
 "主页url":"https://www.xiaobi148.com/categories/",
-"分类url":"https://www.xiaobi148.com/{catePg}/{cateId}/",
+"分类url":"https://www.xiaobi148.com/categories/{cateId}/{catePg}",
 
 "分类二次截取": "list-categories&&tags-cloud",
 "分类数组": "<a&&</a>",
 "分类标题": "title=\"&&\"",
-"分类ID": "href=\"https://*/&&/",
+"分类ID": "href=\"*categories/&&/",
 
 "二次截取":"list_videos_common_videos_list_items&&pagination-holder",
 "数组":"class=\"item&&class=\"views",
