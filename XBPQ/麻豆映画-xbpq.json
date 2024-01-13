@@ -30,7 +30,6 @@
   "主演": "主演：</span>&&</p>",
   "简介": "class=\"title\">&&title",
   
-  "调试":"1",
   "播放数组": "body&&</body>",
   "播放列表": "player_data&&views-comments[替换:12345>>空]",
   "播放标题": "title=\"&&\"",
