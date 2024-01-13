@@ -1,7 +1,7 @@
 
 {
 "请求头": "user-agent#Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
-
+"播放请求头": "user-agent#Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/537.36",
 "站名":"数字系列-无码",
 "主页url":"https://612303.xyz/",
 "分类url":"https://612303.xyz/index.php/vod/type/id/61/page/{catePg}.html?wd{cateId}",
