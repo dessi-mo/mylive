@@ -1,7 +1,7 @@
 var rule = {
     title:'小品网',
     host:'https://hsex.icu',
-    url:'/fyclass-fypage.htm',
+    url:'/fyclass-fypage.htm[/fyclass.htm]',
     searchUrl:'/search.php?q=**',
     searchable:2,
     quickSearch:0,
