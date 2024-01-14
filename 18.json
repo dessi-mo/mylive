@@ -2,7 +2,7 @@
 //https://521github.com/extdomains/raw.githubusercontent.com/dessi-mo/mylive/main/18.json
 //https://mirror.ghproxy.com/https://raw.githubusercontent.com/dessi-mo/mylive/main/18.json
   // "spider": "https://agit.ai/kvymin/xBPQ/raw/branch/master/xBPQ.jar",
-  "spider": "./jar/XBPQ.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/dessi-mo/mylive/main/jar/XBPQ.jar",
   "wallpaper": "",
 
   "lives": [
@@ -15,6 +15,7 @@
   ],
   "sites": [
 {"key":"豆瓣(js)","name":" 🍓豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
+{"key":"好色TV(js)","name":" 🍓好色TV","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"ext":"./js/测试模版.js"},
 {"key":"好色TV(XBPQ)","name":"🔞好色TV[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好色TV-xbpq.json"},
 
 	  
