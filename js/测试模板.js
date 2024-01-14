@@ -13,5 +13,5 @@ var rule = {
     play_parse:true,
     lazy:'',
     一级:'.col-sm-6;h5&&Text;img&&data-src;var&&Text;a&&href',
-    二级:*,
+    二级:'*',
 }
