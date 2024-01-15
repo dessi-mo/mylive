@@ -15,116 +15,30 @@
   ],
   "sites": [
 {"key":"豆瓣(js)","name":" 🍓豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1,"ext":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
-{"key":"好色TV(js)","name":" 🍓好色TV","type":3,"api":"https://521github.com/extdomains/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"ext":"./js/测试模版.js"},
-{"key":"333(js)","name":" 🍓333","type":3,"api":"https://521github.com/extdomains/raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","searchable":1,"ext":"https://521github.com/extdomains/raw.githubusercontent.com/gaotianliuyun/gao/master/js/小品网.js"},	  
 {"key":"好色TV(XBPQ)","name":"🔞好色TV[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好色TV-xbpq.json"},
 
+//直播类
+{"key":"天天直播(XBPQ)","name":"🔞天天实时直播","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext":"./XBPQ/天天实时直播-xbpq.json"},
+{"key":"国产直播(XBPQ)","name":"🔞国产直播秀","type":3,"api":"csp_XBPQ","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./XBPQ/国产直播秀-xbpq.json"},
 	  
-{"key":"蝌蚪窝(XBPQ)","name":"🔞蝌蚪窝[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/蝌蚪窝-xbpq.json"},
 {"key":"数字无码(XBPQ)","name":"🔞数字无码[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/数字-无码-xbpq.json"},
 {"key":"数字解说(XBPQ)","name":"🔞数字解说[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/数字-解说-xbpq.json"},
-{"key":"菲菲资源","name":"🔞菲菲资源[伦理]","type":1,"api":"https://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"鸡坤资源","name":"🔞鸡坤资源[聚合]","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"番号资源","name":"🔞番号资源[聚合]","type":0,"api":"http://fhapiby.com/api.php/Seacms/vod/at/xml/","searchable":1,"quickSearch":1},
-
-		{
-			"key": "热播库",
-			"name": "🔥热播┃BPQ",
-			"type": 3,
-			"changeable": 1,
-			"jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"playerType": "1",
-			"ext": {
-				"主页url": "https://rebozj.pro",
-				"数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-				"图片": "data-original=\"&&\"",
-				"标题": "title=\"&&\"",
-				"链接": "href=\"&&\"",
-				"副标题": "class=\"pic-text text-right\"><b>&&</span>",
-				"搜索模式": "1",
-				"嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-				"搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
-				"线路数组": "<h4 class=\"title&&/h4>",
-				"线路标题": ">&&<",
-				"播放列表": "<a&&/a>",
-				"播放标题": ">&&<",
-				"影片类型": "类型：&&</p>",
-				"导演": "导演：&&</p>",
-				"主演": "主演：&&</p>",
-				"简介": "display: none;\">&&</span>",
-				"分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-				"分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
-				"跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
-			}
-		},
-		{
-			"key": "saohuo",
-			"name": "🔥骚火┃直连",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 0,
-			"quickSearch": 1,
-			"playerType": "2",
-			"jar": "./jar/XBPQ.jar;md5;bb155c3f0133bbce4756ad52003f5968",
-			"api": "csp_XBPQ",
-			"ext": {
-				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-				"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-				"分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-				"数组二次截取": "class=\"v_list\">&&</ul>",
-				"数组": "\"v_img\"&&/div>",
-				"标题": "title=\"&&\"",
-				"副标题": "v_note\"&&</div",
-				"跳转播放链接": "<iframe*src=\"&&\"",
-				"二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-				"三次跳转播放链接": "\"url\"*\"&&\""
-			}
-		},
-		{
-			"key": "乌鸦","name": "🐦乌鸦┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
-			"ext": {
-				"站名": "乌鸦影视",
-				"主页url": "https://wyys.wuyays.top/appto/v1/home/cateData?id=1",
-				"请求头": "User-Agent$Dart/2.19 (dart:io)",
-				"二次截取": "\"data\"*[&&]",
-				"数组": "{&&}",
-				"图片": "\"vod_pic\"*\"&&\"",
-				"标题": "\"vod_name\"*\"&&\"",
-				"副标题": "\"vod_remarks\"*\"&&\"",
-				"链接": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVod?id=+\"vod_id\":&&,+_platform=android&__ic=lqGGz9NM4aHVoD8jSoFFcmfeQ0zcjkG0a6dOiCPe4lHMGzMEigPzyXuhccQRZf6D75pAyu5qXZa8Woq50p8Xvf11kZq38Yk6UAkKR0nWIPWyUN%2BrL68%2FTxsj%2Fs%2F%2Bdvz3d9mhjzeyYUyI71OEzzkEnw%3D%3D",
-				"线路数组": "\"player_info\":{&&}",
-				"线路标题": "\"show\"*\"&&\"",
-				"导演": "vod_director\"*\"&&\"",
-				"主演": "vod_actor\"*\"&&\"",
-				"简介": "vod_blurb\"*\"&&\"",
-				"播放二次截取": "&&[替换]",
-				"播放数组": "urls*\\[&&\\]",
-				"播放列表": "{&&}",
-				"跳转播放链接": "\"url\"*\"&&\"",
-				"播放标题": "\"name\"*\"&&\"",
-				"跳转解析": "默认$https://im1907.top/?jx=#墨鸦独家$空#墨鸦VIP$https://jiexi.ttbfp1.com/m3u8/?url=",
-				"播放链接": "解析+\"url\"*\"&&\"",
-				"搜索url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getVodSearch?wd={wd}&page=1&type",
-				"搜索模式": "1",
-				"分类url": "https://wyys.wuyays.top/addons/apptov4/app.php/v1/vod/getLists?area=&lang=&year=&order=time&type_id={cateId}&type_name=&page={catePg}&pageSize=21;;u0",
-				"分类": "电影$1#电视剧$2#动漫$3#综艺$4"
-			}
-		},
 
     
 {"key":"测试分割线1","name":"--测试分割--","type":1,"api":""},
 {"key":"测试分割线2","name":"--测试分割--","type":0,"api":""},
 //速度好的资源网
-    
-{"key":"天天综合(XBPQ)","name":"🔞天天综合[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/天天综合-xbpq.json"},
-    
+{"key":"蝌蚪窝(XBPQ)","name":"🔞蝌蚪窝[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/蝌蚪窝-xbpq.json"},
 {"key":"黄色仓库(XBPQ)","name":"🔞黄色仓库[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/黄色仓库-xbpq.json"},
-{"key":"精东影业(XBPQ)","name":"🔞精东影业[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/精东影业-xbpq.json"},
-{"key":"麻豆映画(XBPQ)","name":"🔞麻豆映画[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/麻豆映画-xbpq.json"},
+{"key":"天天综合(XBPQ)","name":"🔞天天综合[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/天天综合-xbpq.json"},
 {"key":"四虎影院(XBPQ)","name":"🔞四虎影院[国产]","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/四虎影院-xbpq.json"},
 {"key":"秘密公寓(XBPQ)","name":"🔞秘密公寓[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/秘密公寓-xbpq.json"},
-    
+
+{"key":"精东影业(XBPQ)","name":"🔞精东影业[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/精东影业-xbpq.json"},
+{"key":"麻豆映画(XBPQ)","name":"🔞麻豆映画[国产]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/麻豆映画-xbpq.json"},
+	  
+{"key":"鸡坤资源","name":"🔞鸡坤资源[聚合]","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"番号资源","name":"🔞番号资源[聚合]","type":0,"api":"http://fhapiby.com/api.php/Seacms/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"环亚资源","name":"🔞环亚资源[AV]","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"JAV名优","name":"🔞JAV名优[AV]","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"香奶儿资源","name":"🔞香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":0},
@@ -134,9 +48,7 @@
 {"key":"富二代资源","name":"🔞富二代资源","type":0,"api":"http://f2dcj6.com/sapi?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"字幕网资源","name":"🔞字幕网资源","type":0,"api":"http://zmcj88.com/sapi?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 
-//直播类
-{"key":"天天直播(XBPQ)","name":"🔞天天实时直播","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext":"./XBPQ/天天实时直播-xbpq.json"},
-{"key":"国产直播(XBPQ)","name":"🔞国产直播秀","type":3,"api":"csp_XBPQ","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./XBPQ/国产直播秀-xbpq.json"},
+
     
 {"key":"分割线1","name":"----分割----","type":1,"api":""},
 {"key":"分割线2","name":"----分割----","type":0,"api":""},
