@@ -8,6 +8,7 @@ var rule = {
     filterable:0,
     headers:{
         'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36',
+        'Referer':'https://hsex.icu/',
         'cookie':'hid=rjeutkdurseo1ho0ilb8vdph4m; _ga=GA1.1.590549445.1705249558; _ga_ECF2QFGQ9G=deleted; _ga_ECF2QFGQ9G=GS1.1.1705249995.1.0.1705249995.0.0.0; cf_clearance=MCQKUdwYCgx95MsxlPa8zcET9dsyD3bNuBrP0zjzv_U-1705249996-0-2-27068432.1417c96.7007dbd2-0.2.1705249996'
     },
     timeout:5000,
