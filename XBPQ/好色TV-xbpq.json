@@ -1,9 +1,9 @@
 // 发布页:https://hsex.men/
 {
     "站名":"好色TV",
-    "头部集合": "user-agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36",
+    "头部集合": "user-agent$Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36#Referer$https://hsex.icu/",
     "主页url":"https://hsex.icu",
-    "分类url":"https://hsex.icu/{cateId}-{catePg}.htm[https://hsex.icu/{cateId}-1.htm]",
+    "分类url":"https://hsex.icu/{cateId}-{catePg}.htm",
     "分类":"全部$list#周榜$top7_list#月榜$top_list#5分钟以上$5min_list#10分钟以上$long_list",
 
     "数组":"col-xs-6 col-md-3\">&&class=\"info\">",
@@ -26,7 +26,7 @@
     "播放列表": "video-play&&日期：",
     "播放标题": "panel-title\">&&<",
     "播放链接": "<source src=\"&&\"",
-//    "直接播放":"1",
+
     "免嗅": "1",
     "嗅探词": ".m3u8"
 }
