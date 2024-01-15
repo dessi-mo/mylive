@@ -21,7 +21,7 @@
 {"key":"天天直播(XBPQ)","name":"🔞天天实时直播","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"playerType":1,"ext":"./XBPQ/天天实时直播-xbpq.json"},
 {"key":"国产直播(XBPQ)","name":"🔞国产直播秀","type":3,"api":"csp_XBPQ","playerType":2,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./XBPQ/国产直播秀-xbpq.json"},
 	  
-{"key":"数字无码(XBPQ)","name":"🔞数字无码[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/数字-无码-xbpq.json"},
+{"key":"数字精品(XBPQ)","name":"🔞数字精品[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/数字-精品-xbpq.json"},
 {"key":"数字解说(XBPQ)","name":"🔞数字解说[聚合]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/数字-解说-xbpq.json"},
 
     
